@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<font size="15">Medical Information Machine Learning with R</font><br />
+<br />
+<br />
+
+Breast Cancer Data<br />
+
+<br /><body style="margin-right:200px;margin-left:200px;font-size:12pt">
+This is sample breast cancer data from the <a href="https://archive.ics.uci.edu/ml/machine-learning-databases/breast-cancer-wisconsin/wdbc.names">Wisconsin Diagnostic Breast Cancer dataset.</a>  The data is available <a href="https://archive.ics.uci.edu/ml/machine-learning-databases/breast-cancer-wisconsin/wdbc.data">here.</a> The data includes breast cancer diagnosis as either "Benign" or "Malignant".  The additional attributes include dimensions of the tumor cells.  For more information see the above link on the data.  
+<br>
+<br>
+The program used for this excercise was R.  It is a statistical programming language that has a number of machine learning libraries which offer many different options when considering classification data.  The breast cancer data was evaluated iteratively with a number of models.  The sensitivity of different models can also be iteratively tested.  Eventually the best classifying model was a rules training model, the table for the different models used and their respective accuracy can be seen below.<br />
+<br/>
+
+
+<IFRAME SRC="http://examples.pancakeapps.com/datava/summary_breast_cancer.txt" width="100%" height="650px" id="iframe1" marginheight="0" frameborder="1px" scrolling='no' onLoad="autoResize ('iframe1');"></iframe>
+<br>\
+<br>
+The highest acccuracy achieved for this model was 96% of the diagnosis over 569 observations.  This is an example of machine learning capabilities in R applied to a sample dataset.  R utilizes many different types of models that cover a variety of predictive classfication techniques which can be applied to a variety of datasets.
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br />
+
+
+
+<body/>
