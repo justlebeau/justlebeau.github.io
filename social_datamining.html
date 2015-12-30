@@ -882,10 +882,10 @@ library(rCharts)
 library(tm)  
 library(wordcloud)
 library(RColorBrewer)
-access_secret &lt;- &quot;#####################&quot;
-accesstoken &lt;- &quot;##############################&quot;
-consumerKey &lt;- &quot;#############################&quot;
-consumerSecret &lt;-   &quot;#########################&quot;
+access_secret &lt;- &quot;########&quot;
+accesstoken &lt;- &quot;########&quot;
+consumerKey &lt;- &quot;#######&quot;
+consumerSecret &lt;-   &quot;#########&quot;
 </code></pre>
 
 </div>
@@ -918,7 +918,7 @@ beirutdf&lt;- do.call(&quot;rbind&quot;, lapply(beirut, as.data.frame))
 
 <p>Searching through who is using certain hashtags can be useful for the purpose of gaining valuable followers. </p>
 
-<p>We now have a data frame (think of it as a spreadsheet) of information about this particular hashtag.  Let&#39;s look at which users are using this hashtag and are getting the most retweets/likes.</p>
+<p>We now have a data frame (think of it as a spreadsheet) of information about this particular hashtag.  Let&#39;s look at which users are using this hashtag and have a large following/are influential.</p>
 
 <pre><code>##Look at the dataframe and sort through the ##information to find what&#39;s useful
 user&lt;-getUser(&#39;RealTonyRocha&#39;)
