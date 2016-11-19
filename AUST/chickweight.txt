@@ -1,6 +1,6 @@
 library(dplyr)
 library(rpart)
-library(rpart.plot)
+library(rattle)
 data(ChickWeight)
 groupvalues<- function(x){return(ntile(x,4))}
 ChickWeight$class<-groupvalues(ChickWeight$weight)
@@ -13,4 +13,5 @@ dtree.tab<-table(chik1$class,dtree.pred,dnn=c("Actual","Predicted"))
 ##shows table of actual vs prediction
 prop.table(dtree.tab)
 ##shows plot
+fancyRpartPlot(dtree)
 rpart.plot(dtree,extra=106,under=TRUE,faclen=0)
