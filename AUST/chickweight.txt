@@ -1,0 +1,16 @@
+library(dplyr)
+library(rpart)
+library(rpart.plot)
+data(ChickWeight)
+groupvalues<- function(x){return(ntile(x,4))}
+ChickWeight$class<-groupvalues(ChickWeight$weight)
+ChickWeight<-data.frame(ChickWeight)
+chik<-ChickWeight[1:289,]
+chik1<-ChickWeight[299:578,]
+dtree<-rpart(class~Time+Diet,chik,method="class",parms=list(split="information"))
+dtree.pred<-predict(dtree,chik1,type="class")
+dtree.tab<-table(chik1$class,dtree.pred,dnn=c("Actual","Predicted"))
+##shows table of actual vs prediction
+prop.table(dtree.tab)
+##shows plot
+rpart.plot(dtree,extra=106,under=TRUE,faclen=0)
