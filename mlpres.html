@@ -6,7 +6,7 @@
   <title>Machine Learning Overview</title>
     
   <meta name="apple-mobile-web-app-capable" content="yes" />
-  <meta name="apple-mobile-web-app-status-bar-style" content="red-translucent" />
+  <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent" />
 
   <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
   
@@ -114,7 +114,7 @@ body {
  * LINKS
  *********************************************/
 .reveal a:not(.image) {
-  color: darkred;
+  color: darkblue;
   text-decoration: none;
   -webkit-transition: color .15s ease;
   -moz-transition: color .15s ease;
@@ -163,11 +163,11 @@ body {
 
 .reveal .controls div.navigate-up,
 .reveal .controls div.navigate-up.enabled {
-  border-bottom-color: darkred; }
+  border-bottom-color: darkblue; }
 
 .reveal .controls div.navigate-down,
 .reveal .controls div.navigate-down.enabled {
-  border-top-color: darkred; }
+  border-top-color: darkblue; }
 
 .reveal .controls div.navigate-left.enabled:hover {
   border-right-color: #0000f1; }
@@ -188,7 +188,7 @@ body {
   background: rgba(0, 0, 0, 0.2); }
 
 .reveal .progress span {
-  background: darkred;
+  background: darkblue;
   -webkit-transition: width 800ms cubic-bezier(0.26, 0.86, 0.44, 0.985);
   -moz-transition: width 800ms cubic-bezier(0.26, 0.86, 0.44, 0.985);
   -ms-transition: width 800ms cubic-bezier(0.26, 0.86, 0.44, 0.985);
@@ -787,17 +787,27 @@ hljs.initHighlightingOnLoad();
 <h1>Machine Learning Overview</h1><p></p>
 
 <div class="slideContent" >
-<div class="footer" style="font-size:20px; font-family: Bernhard Modern;">Justin LeBeau <br>  2016</div>
+<div class="footer" style="font-size:20px; font-family: Bernhard Modern;">Justin LeBeau <br> 2016</div>
 
 </div>
 
 </section>
 <section data-transition="linear" data-transition-speed="default">
-<h3>Buzzwords in Data Science</h3>
-<div class="mediaInline slideContent" >
-<p>There are a lot of them&hellip;</p>
+<h3>Buzzwords of Data Analytics</h3>
+<div class="slideContent" >
+<p><img src="https://github.com/justlebeau/justlebeau.github.io/raw/datava/AUST/databubble.png" align="center" style="background-color:transparent;  padding:1px;
+   border:1px solid #021a40; box-shadow:none;"></img></p>
 
-<p><img src="https://github.com/justlebeau/justlebeau.github.io/raw/datava/AUST/databubble.png" alt="pic"/></p>
+</div>
+
+</section>
+<section data-transition="linear" data-transition-speed="default">
+<h3>How Machine Learning fits into Data Analytics and Analysis</h3>
+<div class="slideContent" >
+<ul>
+<li>Many organizations now desire their decision-making to be data-driven<br/></li>
+<li>The amount of data available requires more computational strength and the ability to adapt to changes in data quickly</li>
+</ul>
 
 </div>
 
@@ -875,10 +885,11 @@ hljs.initHighlightingOnLoad();
 </section>
 <section data-transition="linear" data-transition-speed="default">
 <h3>Decision Trees</h3>
-<div class="mediaInline slideContent" >
+<div class="slideContent" >
 <p>Determine the system of characteristics that create a certain outcome.</p>
 
-<p><img src="https://www.researchgate.net/profile/Omar_Lizardo/publication/48204326/figure/fig2/AS:276902897045507@1443030203452/Figure-2-a-Toy-classification-dataset-b-Resulting-decision-tree.png" alt="example"/></p>
+<p><img src="https://www.researchgate.net/profile/Omar_Lizardo/publication/48204326/figure/fig2/AS:276902897045507@1443030203452/Figure-2-a-Toy-classification-dataset-b-Resulting-decision-tree.png" align="center" style="background-color:transparent;  padding:1px;
+   border:1px solid #021a40; box-shadow:none;"></img></p>
 
 <p>Qualitative and quantitive data is used to trace the system of the tree.</p>
 
@@ -894,13 +905,16 @@ hljs.initHighlightingOnLoad();
 
 <p>Our goal is to build a model that classifies chicken weight based on their time in a certain diet.  The weights are classfied as 1,2,3,4 or 0-25th percentile, 25th-50th percentile, 50th-75th percentile, 75th-100th percentile</p>
 
+<p><a href="https://raw.githubusercontent.com/justlebeau/justlebeau.github.io/datava/AUST/chickweight.txt">Code for Analysis</a></p>
+
 </div>
 
 </section>
 <section data-transition="linear" data-transition-speed="default">
 <h3>Decision Tree Example with Chicken Weights cont.</h3>
-<div class="mediaInline slideContent" >
-<p><img src="https://raw.githubusercontent.com/justlebeau/justlebeau.github.io/datava/AUST/dtree.png" alt="tree_chick"/></p>
+<div class="slideContent" >
+<p><img src="https://raw.githubusercontent.com/justlebeau/justlebeau.github.io/datava/AUST/dtree.png" align="center" style="background-color:transparent;  padding:1px;
+   border:1px solid #021a40; box-shadow:none;"></img></p>
 
 <p>Tree graph shows the proportion for each weight class 1,2,3,4 and the proportion of observations that were in each tree node according to the rules.</p>
 
@@ -957,22 +971,25 @@ hljs.initHighlightingOnLoad();
 <div class="slideContent" >
 <p>Kind of like a brain system, but with data.  Simple on left, more complex on the right.</p>
 
-<p><img src="http://cs231n.github.io/assets/nn1/neural_net.jpeg" alt="Simple Neural Network Diagram"/><img src="http://neuralnetworksanddeeplearning.com/images/tikz41.png" alt="Complex Neural Network"/></p>
+<p><img src="http://cs231n.github.io/assets/nn1/neural_net.jpeg" align="left" width="450" height="300" style="background-color:transparent;  padding:5px;
+   border:5px solid #021a40; box-shadow:none;"></img><img src="http://neuralnetworksanddeeplearning.com/images/tikz41.png" align="right" width="450" height="300" style="background-color:transparent;  padding:5px;
+   border:5px solid #021a40; box-shadow:none;"></img></p>
 
-<p><a href="https://quickdraw.withgoogle.com/">Quick Draw</a></p>
+<p>Pictionary with a Neural Network:  <a href="https://quickdraw.withgoogle.com/">Quick Draw</a></p>
 
 </div>
 
 </section>
 <section data-transition="linear" data-transition-speed="default">
 <h3>Naive Bayes</h3>
-<div class="mediaInline slideContent" >
+<div class="slideContent" >
 <ul>
 <li>Conditional probability</li>
 <li>What occured will occur again </li>
 </ul>
 
-<p><img src="https://qph.ec.quoracdn.net/main-qimg-79663bc4809adbc9a48873e45ecffca4?convert_to_webp=true" alt="bayes"/></p>
+<p><img src="https://qph.ec.quoracdn.net/main-qimg-79663bc4809adbc9a48873e45ecffca4?convert_to_webp=true" align="center" style="background-color:transparent;  padding:1px;
+   border:1px solid #021a40; box-shadow:none;"></img></p>
 
 <p><a href="https://en.wikipedia.org/wiki/Naive_Bayes_spam_filtering">Spam Filtering</a></p>
 
@@ -987,6 +1004,8 @@ hljs.initHighlightingOnLoad();
 <li><p>Train a model based on words the word frequency for emails that are &ldquo;Spam&rdquo; vs the word frequency for text messages marked &ldquo;Ham&rdquo; (or safe).</p></li>
 <li><p>Based on the different words in each text message we can make a model to predict future text messages that are either spam or not.</p></li>
 </ul>
+
+<p><a href="https://raw.githubusercontent.com/justlebeau/justlebeau.github.io/datava/AUST/sms_spam.txt">Code for Analysis</a></p>
 
 </div>
 
