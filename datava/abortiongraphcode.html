@@ -1,0 +1,84 @@
+library(rvest)
+library(ggplot2)
+library(lubridate)
+library(httr)
+library(reshape2)
+library(svglite)
+library(scales)
+
+url<-"https://en.wikipedia.org/wiki/Abortion_statistics_in_the_United_States"
+abortions <- url %>%
+  read_html() %>%
+  html_nodes(xpath='//*[@id="mw-content-text"]/table') %>%
+  html_table()
+abortions<-data.frame(abortions[1])
+abortions<-abortions[-44,c(1:3)]
+abortions[c(44:45),2]<-c(327166,323999)
+abortions[c(44:45),1]<-c(2013,2014)
+abortions<-abortions[,-3]
+colnames(abortions)<-c("Year","Number")
+abortions$Number<-as.numeric(gsub(",","",abortions$Number))
+
+
+pres<-read.csv("https://raw.githubusercontent.com/m0rt1m3r/US-Presidents/master/USPresidents.csv")
+
+pres$date<-mdy(pres$Took.office)
+pres$year<-year(pres$date)
+pres[c(34:37),9]<-c(1953,1961,1963,1969)
+pres[c(39:44),9]<-c(1977,1981,1989,1993,2001,2009)
+
+vlookup <- function(ref, #the value or values that you want to look for
+                    table, #the table where you want to look for it; will look in first column
+                    column, #the column that you want the return data to come from,
+                    range=FALSE, #if there is not an exact match, return the closest?
+                    larger=TRUE) #if doing a range lookup, should the smaller or larger key be used?)
+{
+  if(!is.numeric(column) & !column %in% colnames(table)) {
+    stop(paste("can't find column",column,"in table"))
+  }
+  if(range) {
+    if(!is.numeric(table[,1])) {
+      stop(paste("The first column of table must be numeric when using range lookup"))
+    }
+    table <- table[order(table[,1]),] 
+    index <- findInterval(ref,table[,1])
+    if(larger) {
+      index <- ifelse(ref %in% table[,1],index,index+1)
+    }
+    output <- table[index,column]
+    output[!index <= dim(table)[1]] <- NA
+    
+  } else {
+    output <- table[match(ref,table[,1]),column]
+    output[!ref %in% table[,1]] <- NA #not needed?
+  }
+  dim(output) <- dim(ref)
+  output
+}
+pres<-pres[,c(9,1,2,3,4,5,6,7,8)]
+pres$year[is.na(pres$year)]<-0
+abortions$party<-vlookup(abortions$Year,pres,7,TRUE,FALSE)
+##Martin-Quinn Scores of Judges
+justparty<-read.csv("http://mqscores.berkeley.edu/media/2015/justices.csv",header=TRUE)
+justparty$party<-ifelse(justparty$post_mn>0,"R","D")
+justsummary<-dcast(justparty,term~party)
+justsummary$affiliation<-ifelse(justsummary$D>justsummary$R,"D","R")
+justsummary$split<-paste0(justsummary$D,sep="-",justsummary$R)
+
+abortions$court<-justsummary$affiliation[match(abortions$Year,justsummary$term)]
+abortions$split<-justsummary$split[match(abortions$Year,justsummary$term)]
+
+
+myColors<-c("#4699dd","red")
+p<-ggplot(abortions,aes(Year,Number),label=split)+geom_line(aes(color=party,group=2),size=4,alpha=.75)+geom_point(size=2.5)+geom_text(aes(label=split),size=4,vjust = 1)+
+scale_color_manual(name="Presidential Party",values=myColors)+labs(title="Abortions, Judge Affiliation, and Presential Party",size=14,
+subtitle="Judge Affiliation uses Martin-Quinn justice scoring method to determine affiliation for a year. Affiliation splits shown as points D-R. 
+In general, we can see the Republican majority has existed on the court for over 30 years until just recently. With the recent election of Donald 
+Trump, many one-issue voters were looking for a favorable split towards Republicans. It seems this has been the case for quite sometime.")+
+  theme_light()+theme(axis.text.x=element_text(angle=45,hjust=1))+theme(plot.title = element_text(size=20),plot.subtitle = element_text(size=12))
+p + scale_y_continuous(labels = comma, breaks=pretty_breaks())
+svglite("abortions.svg")
+p
+dev.off()
+
+
