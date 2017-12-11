@@ -1,0 +1,886 @@
+Code,Governorate,District,Latitude,Longitude,Shelter Type,Status,Number_of_tents,Number_of_Individuals,Number of Latrines,Number of 1000 Litre Tanks,Men,Women,Children,Type
+51125-01-001,Bekaa,Zahle,33.8364,35.943,IS- Informal Settlement,Active,66,340,54,54,9,4,5,Camp
+51125-01-004,Bekaa,Zahle,33.8425,35.9321,IS- Informal Settlement,Active,5,28,19,19,258,293,276,Camp
+51125-01-005,Bekaa,Zahle,33.8424,35.9352,IS- Informal Settlement,Active,4,16,4,7,221,13,52,Camp
+51125-01-006,Bekaa,Zahle,33.8433,35.9259,IS- Informal Settlement,Active,5,16,3,3,214,86,237,Camp
+51125-01-009,Bekaa,Zahle,33.825,35.9322,IS- Informal Settlement,Active,32,247,39,39,70,111,290,Camp
+51125-01-011,Bekaa,Zahle,33.8237,35.9331,IS- Informal Settlement,Active,6,25,5,5,108,101,69,Camp
+51125-01-012,Bekaa,Zahle,33.8464,35.9318,IS- Informal Settlement,Less than 4,3,23,1,1,68,55,139,Camp
+51125-01-016,Bekaa,Zahle,33.8434,35.9247,IS- Informal Settlement,Less than 4,3,26,3,3,135,298,273,Camp
+51125-01-018,Bekaa,Zahle,33.8079,35.946,IS- Informal Settlement,Active,13,57,13,13,56,47,118,Camp
+51125-01-020,Bekaa,Zahle,33.8162,35.9425,IS- Informal Settlement,Active,32,184,19,19,206,177,253,Camp
+51125-01-023,Bekaa,Zahle,33.843,35.9275,IS- Informal Settlement,Active,8,50,11,11,198,281,152,Camp
+51125-01-024,Bekaa,Zahle,33.8238,35.9394,IS- Informal Settlement,Less than 4,3,17,3,3,273,165,46,Camp
+51125-01-026,Bekaa,Zahle,33.8276,35.9489,IS- Informal Settlement,Active,8,48,8,8,26,287,254,Camp
+51125-01-027,Bekaa,Zahle,33.8062,35.9387,IS- Informal Settlement,Active,19,107,12,12,218,226,216,Camp
+51125-01-028,Bekaa,Zahle,33.8077,35.9398,IS- Informal Settlement,Active,76,559,71,71,238,17,111,Camp
+51125-01-029,Bekaa,Zahle,33.8068,35.9477,IS- Informal Settlement,Active,4,31,4,4,121,11,199,Camp
+51125-01-032,Bekaa,Zahle,33.8001,35.9442,IS- Informal Settlement,Active,14,72,13,13,157,239,189,Camp
+51125-01-034,Bekaa,Zahle,33.8148,35.948,IS- Informal Settlement,Active,49,334,44,44,126,263,23,Camp
+51125-01-035,Bekaa,Zahle,33.8242,35.9426,IS- Informal Settlement,Active,16,115,13,13,216,267,263,Camp
+51125-01-036,Bekaa,Zahle,33.8205,35.9448,IS- Informal Settlement,Active,11,77,13,13,217,129,181,Camp
+51125-01-038,Bekaa,Zahle,33.8424,35.9314,IS- Informal Settlement,Less than 4,2,15,2,5,164,256,94,Camp
+51125-01-040,Bekaa,Zahle,33.8348,35.9318,IS- Informal Settlement,Active,8,47,3,3,73,152,205,Camp
+51125-01-041,Bekaa,Zahle,33.8393,35.9284,IS- Informal Settlement,Less than 4,2,15,1,1,201,124,107,Camp
+51125-01-042,Bekaa,Zahle,33.8429,35.929,IS- Informal Settlement,Less than 4,1,12,1,3,94,194,269,Camp
+51125-01-043,Bekaa,Zahle,33.8033,35.9494,IS- Informal Settlement,Less than 4,2,8,1,1,163,281,242,Camp
+51125-01-044,Bekaa,Zahle,33.8406,35.9268,IS- Informal Settlement,Active,7,49,3,3,38,13,138,Camp
+51125-01-045,Bekaa,Zahle,33.8479,35.9339,IS- Informal Settlement,Less than 4,1,15,1,0,221,144,202,Camp
+51125-01-047,Bekaa,Zahle,33.85,35.9354,IS- Informal Settlement,Less than 4,1,7,1,1,78,93,247,Camp
+51125-01-048,Bekaa,Zahle,33.8313,35.9406,IS- Informal Settlement,Active,6,31,6,6,253,151,165,Camp
+51125-01-049,Bekaa,Zahle,33.8352,35.9363,IS- Informal Settlement,Less than 4,3,18,3,3,288,124,201,Camp
+51125-01-050,Bekaa,Zahle,33.7907,35.9564,IS- Informal Settlement,Active,11,73,7,7,107,52,286,Camp
+51125-01-051,Bekaa,Zahle,33.8316,35.926,IS- Informal Settlement,Active,4,27,3,3,27,137,227,Camp
+51125-01-053,Bekaa,Zahle,33.7992,35.9444,IS- Informal Settlement,Active,76,522,80,80,14,222,138,Camp
+51125-01-054,Bekaa,Zahle,33.796,35.9568,IS- Informal Settlement,Active,6,38,4,4,41,160,171,Camp
+51125-01-055,Bekaa,Zahle,33.8203,35.9339,IS- Informal Settlement,Active,4,27,4,4,52,197,150,Camp
+51125-01-056,Bekaa,Zahle,33.7955,35.9623,IS- Informal Settlement,Less than 4,1,12,1,1,29,104,23,Camp
+51125-01-061,Bekaa,Zahle,33.832,35.936,IS- Informal Settlement,Active,5,32,2,2,136,18,232,Camp
+51125-01-062,Bekaa,Zahle,33.8056,35.9472,IS- Informal Settlement,Active,4,22,4,4,75,153,261,Camp
+51125-01-063,Bekaa,Zahle,33.8371,35.9226,IS- Informal Settlement,Active,55,351,50,50,38,286,140,Camp
+51125-01-064,Bekaa,Zahle,33.7871,35.961,IS- Informal Settlement,Active,44,247,39,39,210,90,112,Camp
+51125-01-066,Bekaa,Zahle,33.8489,35.9332,IS- Informal Settlement,Less than 4,2,7,1,1,286,154,236,Camp
+51125-01-068,Bekaa,Zahle,33.8342,35.9231,IS- Informal Settlement,Active,4,21,1,1,105,67,218,Camp
+51125-01-069,Bekaa,Zahle,33.8263,35.9364,IS- Informal Settlement,Active,5,13,5,5,214,176,48,Camp
+51125-01-071,Bekaa,Zahle,33.8285,35.9459,IS- Informal Settlement,Less than 4,1,10,1,1,200,200,56,Camp
+51125-01-073,Bekaa,Zahle,33.8302,35.9499,IS- Informal Settlement,Active,8,39,4,4,206,141,49,Camp
+51125-01-074,Bekaa,Zahle,33.80404,35.95816,IS- Informal Settlement,Active,32,193,25,25,48,158,122,Camp
+51125-01-075,Bekaa,Zahle,33.8012,35.9398,IS- Informal Settlement,Active,5,27,3,3,203,263,163,Camp
+51125-01-076,Bekaa,Zahle,33.8503,35.9448,IS- Informal Settlement,Active,8,42,8,5,144,58,244,Camp
+51125-01-077,Bekaa,Zahle,33.8052,35.9364,IS- Informal Settlement,Less than 4,3,18,1,1,227,236,252,Camp
+51125-01-079,Bekaa,Zahle,33.8072,35.939,IS- Informal Settlement,Active,5,31,5,5,95,130,281,Camp
+51389-01-022,Bekaa,Zahle,33.76026,35.96912,IS- Informal Settlement,Less than 4,3,14,2,2,266,294,198,Camp
+51389-01-023,Bekaa,Zahle,33.75827,35.97598,IS- Informal Settlement,Less than 4,1,5,1,0,205,287,254,Camp
+51125-01-080,Bekaa,Zahle,33.8056,35.9368,IS- Informal Settlement,Less than 4,2,14,2,2,160,46,277,Camp
+51125-01-081,Bekaa,Zahle,33.806,35.9374,IS- Informal Settlement,Less than 4,2,5,1,1,109,184,68,Camp
+51125-01-082,Bekaa,Zahle,33.815,35.941,IS- Informal Settlement,Active,6,43,6,6,109,261,61,Camp
+51125-01-083,Bekaa,Zahle,33.802,35.9392,IS- Informal Settlement,Active,5,27,3,3,153,175,105,Camp
+51125-01-084,Bekaa,Zahle,33.8081,35.9413,IS- Informal Settlement,Less than 4,3,25,3,3,135,132,85,Camp
+51125-01-086,Bekaa,Zahle,33.7895,35.9605,IS- Informal Settlement,Active,8,59,7,7,162,180,50,Camp
+51125-01-087,Bekaa,Zahle,33.8367,35.939,IS- Informal Settlement,Less than 4,2,12,2,2,255,195,72,Camp
+51125-01-088,Bekaa,Zahle,33.8469,35.9286,IS- Informal Settlement,Less than 4,2,7,1,9,287,107,113,Camp
+51125-01-090,Bekaa,Zahle,33.8408,35.9344,IS- Informal Settlement,Active,4,19,3,3,130,18,300,Camp
+51125-01-092,Bekaa,Zahle,33.8424,35.9334,IS- Informal Settlement,Less than 4,1,12,1,2,113,280,169,Camp
+51125-01-093,Bekaa,Zahle,33.8458,35.9334,IS- Informal Settlement,Active,4,18,2,2,294,160,159,Camp
+51125-01-094,Bekaa,Zahle,33.8493,35.9414,IS- Informal Settlement,Less than 4,2,16,2,2,264,137,198,Camp
+51125-01-098,Bekaa,Zahle,33.8355,35.9311,IS- Informal Settlement,Active,5,28,3,3,233,24,230,Camp
+51125-01-099,Bekaa,Zahle,33.8312,35.9364,IS- Informal Settlement,Less than 4,1,6,1,1,45,150,12,Camp
+51125-01-101,Bekaa,Zahle,33.8333,35.9337,IS- Informal Settlement,Less than 4,2,14,2,2,83,149,270,Camp
+51125-01-102,Bekaa,Zahle,33.836,35.9313,IS- Informal Settlement,Less than 4,2,12,2,2,45,35,39,Camp
+51125-01-103,Bekaa,Zahle,33.8364,35.9351,IS- Informal Settlement,Active,7,39,4,4,144,290,153,Camp
+51125-01-105,Bekaa,Zahle,33.8294,35.9505,IS- Informal Settlement,Less than 4,1,9,1,1,244,273,270,Camp
+51125-01-106,Bekaa,Zahle,33.8289,35.95,IS- Informal Settlement,Less than 4,1,6,1,1,269,52,102,Camp
+51125-01-107,Bekaa,Zahle,33.8293,35.9503,IS- Informal Settlement,Less than 4,3,14,3,3,69,159,225,Camp
+51125-01-108,Bekaa,Zahle,33.8303,35.9512,IS- Informal Settlement,Less than 4,1,6,1,1,42,165,184,Camp
+51125-01-109,Bekaa,Zahle,33.8038,35.9578,IS- Informal Settlement,Active,76,412,68,68,80,173,160,Camp
+51125-01-110,Bekaa,Zahle,33.8005,35.9513,IS- Informal Settlement,Less than 4,2,8,1,1,31,289,131,Camp
+51125-01-111,Bekaa,Zahle,33.8046,35.9577,IS- Informal Settlement,Less than 4,2,11,3,3,87,270,37,Camp
+51125-01-112,Bekaa,Zahle,33.8375,35.9382,IS- Informal Settlement,Less than 4,2,19,1,1,130,289,21,Camp
+51125-01-113,Bekaa,Zahle,33.8499,35.9432,IS- Informal Settlement,Active,6,44,4,4,112,90,212,Camp
+51125-01-114,Bekaa,Zahle,33.8444,35.9317,IS- Informal Settlement,Less than 4,1,12,1,1,88,90,253,Camp
+51125-01-115,Bekaa,Zahle,33.8346,35.9409,IS- Informal Settlement,Less than 4,2,13,2,2,139,285,231,Camp
+51125-01-116,Bekaa,Zahle,33.8335,35.9504,IS- Informal Settlement,Less than 4,2,11,1,1,102,159,161,Camp
+51125-01-117,Bekaa,Zahle,33.8174,35.9424,IS- Informal Settlement,Less than 4,2,22,2,2,142,249,277,Camp
+51125-01-118,Bekaa,Zahle,33.829,35.935,IS- Informal Settlement,Less than 4,2,9,1,1,153,249,174,Camp
+51125-01-119,Bekaa,Zahle,33.83,35.9366,IS- Informal Settlement,Less than 4,1,3,1,1,118,251,101,Camp
+51125-01-120,Bekaa,Zahle,33.8014,35.9507,IS- Informal Settlement,Active,4,26,3,3,145,193,243,Camp
+51125-01-121,Bekaa,Zahle,33.8331,35.9473,IS- Informal Settlement,Active,5,33,3,3,263,14,16,Camp
+51125-01-122,Bekaa,Zahle,33.8306,35.948,IS- Informal Settlement,Less than 4,1,0,0,0,153,280,229,Camp
+51125-01-123,Bekaa,Zahle,33.8308,35.9357,IS- Informal Settlement,Active,8,53,5,5,169,91,174,Camp
+51125-01-126,Bekaa,Zahle,33.8039,35.9345,IS- Informal Settlement,Less than 4,1,6,1,1,263,215,116,Camp
+51125-01-127,Bekaa,Zahle,33.8173,35.9429,IS- Informal Settlement,Active,5,24,5,5,43,26,200,Camp
+51125-01-129,Bekaa,Zahle,33.8419,35.927,IS- Informal Settlement,Less than 4,1,5,1,1,124,147,254,Camp
+51125-01-130,Bekaa,Zahle,33.8319,35.9367,IS- Informal Settlement,Less than 4,1,10,1,1,30,262,208,Camp
+51125-01-131,Bekaa,Zahle,33.8303,35.9371,IS- Informal Settlement,Less than 4,2,11,2,2,268,244,138,Camp
+51125-01-132,Bekaa,Zahle,33.7917,35.9574,IS- Informal Settlement,Less than 4,1,3,1,1,62,120,218,Camp
+51125-01-133,Bekaa,Zahle,33.8003,35.9498,IS- Informal Settlement,Less than 4,1,5,1,1,228,113,196,Camp
+51125-01-134,Bekaa,Zahle,33.7996,35.9471,IS- Informal Settlement,Less than 4,3,14,1,1,287,169,168,Camp
+51125-01-135,Bekaa,Zahle,33.80802,35.93716,IS- Informal Settlement,Active,13,94,6,6,16,167,225,Camp
+51125-01-137,Bekaa,Zahle,33.83791,35.94242,IS- Informal Settlement,Less than 4,1,20,1,1,116,135,89,Camp
+51125-01-138,Bekaa,Zahle,33.84018,35.94006,IS- Informal Settlement,Active,4,16,1,1,34,183,165,Camp
+51125-01-139,Bekaa,Zahle,33.84719,35.93879,IS- Informal Settlement,Less than 4,1,7,1,0,106,12,215,Camp
+51125-01-140,Bekaa,Zahle,33.84679,35.94018,IS- Informal Settlement,Active,10,46,5,3,77,189,281,Camp
+51125-01-141,Bekaa,Zahle,33.79836,35.94834,IS- Informal Settlement,Less than 4,1,3,0,0,155,227,173,Camp
+51125-01-142,Bekaa,Zahle,33.8395,35.93628,IS- Informal Settlement,Less than 4,1,14,1,1,136,259,268,Camp
+51125-01-143,Bekaa,Zahle,33.8508,35.94179,IS- Informal Settlement,Less than 4,1,2,1,0,162,286,172,Camp
+51125-01-144,Bekaa,Zahle,33.84905,35.93277,IS- Informal Settlement,Less than 4,3,13,1,2,25,91,54,Camp
+51125-01-145,Bekaa,Zahle,33.84853,35.93719,IS- Informal Settlement,Active,5,25,5,5,66,245,60,Camp
+51125-01-146,Bekaa,Zahle,33.84575,35.93134,IS- Informal Settlement,Less than 4,2,13,1,1,221,74,240,Camp
+51125-01-147,Bekaa,Zahle,33.8337,35.92365,IS- Informal Settlement,Less than 4,1,7,1,1,172,235,91,Camp
+51125-01-148,Bekaa,Zahle,33.80358,35.94061,IS- Informal Settlement,Active,18,130,18,18,188,123,48,Camp
+51125-01-149,Bekaa,Zahle,33.80874,35.93596,IS- Informal Settlement,Active,7,50,6,6,236,150,279,Camp
+51125-01-150,Bekaa,Zahle,33.84315,35.9415,IS- Informal Settlement,Less than 4,1,11,0,1,52,242,90,Camp
+51125-01-151,Bekaa,Zahle,33.80313,35.94117,IS- Informal Settlement,Active,10,73,6,6,249,233,207,Camp
+51125-01-155,Bekaa,Zahle,33.82686,35.94444,IS- Informal Settlement,Active,61,433,31,31,118,79,148,Camp
+51125-01-156,Bekaa,Zahle,33.78635,35.95894,IS- Informal Settlement,Active,4,45,6,6,166,292,182,Camp
+51125-01-157,Bekaa,Zahle,33.80854,35.93892,IS- Informal Settlement,Active,39,245,0,0,249,154,29,Camp
+51125-01-158,Bekaa,Zahle,33.80879,35.93939,IS- Informal Settlement,Active,26,137,11,11,182,173,82,Camp
+51125-01-159,Bekaa,Zahle,33.80595,35.9391,IS- Informal Settlement,Active,23,140,26,26,156,76,229,Camp
+51125-01-161,Bekaa,Zahle,33.84863,35.93393,IS- Informal Settlement,Less than 4,1,2,1,0,79,252,226,Camp
+51125-01-162,Bekaa,Zahle,33.84488,35.94136,IS- Informal Settlement,Less than 4,1,11,1,1,296,286,69,Camp
+51125-01-163,Bekaa,Zahle,33.84866,35.9439,IS- Informal Settlement,Less than 4,2,11,2,3,125,43,87,Camp
+51125-01-164,Bekaa,Zahle,33.8507,35.94045,IS- Informal Settlement,Less than 4,1,10,1,1,246,28,159,Camp
+51125-01-165,Bekaa,Zahle,33.83858,35.92221,IS- Informal Settlement,Active,9,42,8,7,279,283,49,Camp
+51127-01-001,Bekaa,Zahle,33.8231,35.9062,IS- Informal Settlement,Active,57,404,42,42,14,225,240,Camp
+51127-01-002,Bekaa,Zahle,33.8205,35.9018,IS- Informal Settlement,Active,71,334,83,83,23,260,29,Camp
+51127-01-003,Bekaa,Zahle,33.8235,35.9097,IS- Informal Settlement,Active,69,446,69,69,37,58,289,Camp
+51127-01-004,Bekaa,Zahle,33.8186,35.8998,IS- Informal Settlement,Active,31,188,25,25,103,60,280,Camp
+51127-01-005,Bekaa,Zahle,33.8169,35.9044,IS- Informal Settlement,Active,25,149,20,20,13,203,229,Camp
+51127-01-006,Bekaa,Zahle,33.8218,35.9038,IS- Informal Settlement,Active,134,730,76,76,81,52,185,Camp
+51127-01-007,Bekaa,Zahle,33.8078,35.9091,IS- Informal Settlement,Active,23,148,15,15,84,109,117,Camp
+51127-01-008,Bekaa,Zahle,33.8014,35.9099,IS- Informal Settlement,Active,43,358,40,40,242,260,277,Camp
+51127-01-009,Bekaa,Zahle,33.8173,35.9294,IS- Informal Settlement,Active,7,45,7,6,296,34,136,Camp
+51127-01-010,Bekaa,Zahle,33.8231,35.9267,IS- Informal Settlement,Active,5,37,4,4,92,158,77,Camp
+51127-01-011,Bekaa,Zahle,33.8265,35.9231,IS- Informal Settlement,Active,40,253,36,36,149,56,168,Camp
+51127-01-012,Bekaa,Zahle,33.8258,35.9208,IS- Informal Settlement,Active,20,112,18,21,136,203,148,Camp
+51127-01-013,Bekaa,Zahle,33.8233,35.9181,IS- Informal Settlement,Active,61,350,49,58,154,217,102,Camp
+51127-01-015,Bekaa,Zahle,33.8235,35.9103,IS- Informal Settlement,Active,9,37,9,9,81,186,140,Camp
+51127-01-016,Bekaa,Zahle,33.8249,35.9099,IS- Informal Settlement,Active,21,135,16,16,269,287,183,Camp
+51127-01-017,Bekaa,Zahle,33.8192,35.9256,IS- Informal Settlement,Active,73,446,65,65,105,175,47,Camp
+51127-01-018,Bekaa,Zahle,33.8255,35.909,IS- Informal Settlement,Active,14,82,17,17,282,287,194,Camp
+51127-01-019,Bekaa,Zahle,33.8258,35.9264,IS- Informal Settlement,Active,6,28,2,3,214,278,103,Camp
+51127-01-020,Bekaa,Zahle,33.819,35.9173,IS- Informal Settlement,Active,17,125,18,18,256,88,148,Camp
+51127-01-021,Bekaa,Zahle,33.8215,35.9208,IS- Informal Settlement,Active,5,24,3,4,252,97,247,Camp
+51127-01-022,Bekaa,Zahle,33.8015,35.8906,IS- Informal Settlement,Less than 4,3,32,3,3,36,73,296,Camp
+51127-01-023,Bekaa,Zahle,33.8234,35.906,IS- Informal Settlement,Active,12,76,12,12,254,261,236,Camp
+51127-01-024,Bekaa,Zahle,33.8245,35.9077,IS- Informal Settlement,Active,13,107,10,10,256,79,188,Camp
+51127-01-025,Bekaa,Zahle,33.8164,35.9289,IS- Informal Settlement,Active,20,111,17,16,245,254,222,Camp
+51127-01-026,Bekaa,Zahle,33.8093,35.9088,IS- Informal Settlement,Active,4,19,1,1,276,209,105,Camp
+51127-01-029,Bekaa,Zahle,33.8241,35.9253,IS- Informal Settlement,Active,5,33,2,2,71,12,208,Camp
+51127-01-030,Bekaa,Zahle,33.8265,35.9158,IS- Informal Settlement,Active,24,144,22,28,103,163,45,Camp
+51127-01-031,Bekaa,Zahle,33.8221,35.9101,IS- Informal Settlement,Active,13,74,13,13,240,212,28,Camp
+51127-01-032,Bekaa,Zahle,33.7769,35.8868,IS- Informal Settlement,Active,8,46,7,7,255,272,99,Camp
+51127-01-033,Bekaa,Zahle,33.8213,35.8992,IS- Informal Settlement,Less than 4,2,14,2,2,59,296,92,Camp
+51127-01-034,Bekaa,Zahle,33.8246,35.8999,IS- Informal Settlement,Less than 4,3,16,1,1,226,214,233,Camp
+51127-01-035,Bekaa,Zahle,33.8256,35.9035,IS- Informal Settlement,Active,11,86,11,11,247,198,93,Camp
+51127-01-036,Bekaa,Zahle,33.8059,35.9121,IS- Informal Settlement,Active,18,125,12,12,59,169,74,Camp
+51127-01-037,Bekaa,Zahle,33.8019,35.9079,IS- Informal Settlement,Less than 4,3,12,3,3,127,106,73,Camp
+51127-01-038,Bekaa,Zahle,33.8145,35.9168,IS- Informal Settlement,Less than 4,2,11,1,1,232,14,299,Camp
+51127-01-040,Bekaa,Zahle,33.8103,35.9242,IS- Informal Settlement,Less than 4,1,10,1,1,231,145,56,Camp
+51127-01-041,Bekaa,Zahle,33.812,35.9261,IS- Informal Settlement,Active,4,31,4,4,243,156,128,Camp
+51127-01-043,Bekaa,Zahle,33.8173,35.8987,IS- Informal Settlement,Active,9,51,9,9,249,60,50,Camp
+51127-01-044,Bekaa,Zahle,33.8144,35.9216,IS- Informal Settlement,Less than 4,2,7,2,1,123,222,128,Camp
+51127-01-045,Bekaa,Zahle,33.8164,35.9201,IS- Informal Settlement,Less than 4,2,12,1,1,231,85,16,Camp
+51127-01-046,Bekaa,Zahle,33.8228,35.9267,IS- Informal Settlement,Active,5,29,4,2,300,201,12,Camp
+51127-01-047,Bekaa,Zahle,33.8229,35.9177,IS- Informal Settlement,Active,10,68,8,8,98,38,43,Camp
+51127-01-048,Bekaa,Zahle,33.8201,35.9263,IS- Informal Settlement,Active,4,21,2,4,224,157,177,Camp
+51127-01-049,Bekaa,Zahle,33.8082,35.9098,IS- Informal Settlement,Less than 4,2,6,2,2,287,172,60,Camp
+51127-01-050,Bekaa,Zahle,33.8081,35.9095,IS- Informal Settlement,Active,12,73,8,8,186,274,113,Camp
+51127-01-051,Bekaa,Zahle,33.8069,35.9117,IS- Informal Settlement,Active,5,35,2,2,201,229,259,Camp
+51127-01-052,Bekaa,Zahle,33.8063,35.9116,IS- Informal Settlement,Less than 4,3,17,0,0,97,177,300,Camp
+51127-01-053,Bekaa,Zahle,33.8124,35.917,IS- Informal Settlement,Less than 4,3,19,1,1,95,206,64,Camp
+51127-01-054,Bekaa,Zahle,33.8093,35.9199,IS- Informal Settlement,Less than 4,3,14,2,2,189,129,90,Camp
+51127-01-055,Bekaa,Zahle,33.8222,35.9175,IS- Informal Settlement,Less than 4,3,6,3,2,99,46,147,Camp
+51127-01-058,Bekaa,Zahle,33.8196,35.9194,IS- Informal Settlement,Less than 4,3,17,2,2,160,59,119,Camp
+51127-01-059,Bekaa,Zahle,33.8269,35.9156,IS- Informal Settlement,Active,5,31,2,3,116,145,144,Camp
+51127-01-060,Bekaa,Zahle,33.8271,35.9155,IS- Informal Settlement,Active,17,89,11,13,197,147,284,Camp
+51127-01-061,Bekaa,Zahle,33.8179,35.9269,IS- Informal Settlement,Active,6,18,2,4,271,61,284,Camp
+51127-01-062,Bekaa,Zahle,33.8184,35.9307,IS- Informal Settlement,Active,4,24,3,4,17,63,259,Camp
+51127-01-063,Bekaa,Zahle,33.8237,35.9274,IS- Informal Settlement,Active,4,23,3,3,184,259,88,Camp
+51127-01-064,Bekaa,Zahle,33.8264,35.9175,IS- Informal Settlement,Less than 4,1,5,1,1,16,60,72,Camp
+51127-01-065,Bekaa,Zahle,33.8252,35.9085,IS- Informal Settlement,Active,7,58,6,6,298,275,266,Camp
+51127-01-066,Bekaa,Zahle,33.8254,35.9089,IS- Informal Settlement,Active,23,155,18,18,160,162,45,Camp
+51127-01-067,Bekaa,Zahle,33.8102,35.9204,IS- Informal Settlement,Less than 4,1,11,1,1,111,216,226,Camp
+51127-01-069,Bekaa,Zahle,33.813,35.9265,IS- Informal Settlement,Less than 4,3,12,0,0,126,77,34,Camp
+51127-01-070,Bekaa,Zahle,33.81,35.9235,IS- Informal Settlement,Less than 4,1,7,0,0,36,126,199,Camp
+51127-01-071,Bekaa,Zahle,33.818,35.929,IS- Informal Settlement,Active,9,78,9,9,164,265,276,Camp
+51127-01-072,Bekaa,Zahle,33.8046,35.9089,IS- Informal Settlement,Active,19,71,3,3,113,281,178,Camp
+51127-01-073,Bekaa,Zahle,33.8064,35.9238,IS- Informal Settlement,Active,10,75,10,10,119,165,83,Camp
+51127-01-074,Bekaa,Zahle,33.8096,35.922,IS- Informal Settlement,Less than 4,2,13,2,2,155,261,232,Camp
+51127-01-075,Bekaa,Zahle,33.8115,35.9168,IS- Informal Settlement,Less than 4,2,0,0,0,188,88,56,Camp
+51127-01-076,Bekaa,Zahle,33.8201,35.9162,IS- Informal Settlement,Less than 4,2,13,3,3,95,242,141,Camp
+51127-01-077,Bekaa,Zahle,33.8214,35.9197,IS- Informal Settlement,Less than 4,1,5,1,1,252,37,147,Camp
+51127-01-078,Bekaa,Zahle,33.8213,35.9184,IS- Informal Settlement,Less than 4,1,5,1,1,182,186,63,Camp
+51127-01-079,Bekaa,Zahle,33.8282,35.9212,IS- Informal Settlement,Active,9,54,4,4,277,216,75,Camp
+51127-01-080,Bekaa,Zahle,33.8241,35.9285,IS- Informal Settlement,Less than 4,3,18,3,2,183,104,36,Camp
+51127-01-081,Bekaa,Zahle,33.8179,35.9239,IS- Informal Settlement,Less than 4,3,23,1,3,206,199,199,Camp
+51127-01-082,Bekaa,Zahle,33.8089,35.9092,IS- Informal Settlement,Less than 4,2,21,1,1,69,53,56,Camp
+51127-01-083,Bekaa,Zahle,33.7981,35.9041,IS- Informal Settlement,Less than 4,1,6,1,1,233,11,65,Camp
+51127-01-084,Bekaa,Zahle,33.80173,35.90558,IS- Informal Settlement,Active,13,99,10,10,140,232,13,Camp
+51127-01-085,Bekaa,Zahle,33.8034,35.90811,IS- Informal Settlement,Active,13,81,7,7,257,13,271,Camp
+51127-01-086,Bekaa,Zahle,33.81602,35.89783,IS- Informal Settlement,Less than 4,3,22,2,2,198,271,66,Camp
+51127-01-087,Bekaa,Zahle,33.79634,35.91045,IS- Informal Settlement,Active,9,63,5,5,11,11,243,Camp
+51127-01-088,Bekaa,Zahle,33.80767,35.91011,IS- Informal Settlement,Active,9,54,9,9,54,23,106,Camp
+51127-01-089,Bekaa,Zahle,33.82259,35.92684,IS- Informal Settlement,Active,7,36,9,5,92,295,75,Camp
+51131-01-002,Bekaa,Zahle,33.8288,35.913,IS- Informal Settlement,Active,5,30,5,5,191,153,278,Camp
+51131-01-004,Bekaa,Zahle,33.831,35.9128,IS- Informal Settlement,Less than 4,1,14,1,1,73,123,271,Camp
+51139-01-002,Bekaa,Zahle,33.8718,35.954,IS- Informal Settlement,Less than 4,2,12,2,2,161,180,255,Camp
+51139-01-003,Bekaa,Zahle,33.8456,35.9469,IS- Informal Settlement,Less than 4,3,21,2,2,262,40,266,Camp
+51139-01-004,Bekaa,Zahle,33.8497,35.9588,IS- Informal Settlement,Active,4,28,4,4,187,60,168,Camp
+51139-01-005,Bekaa,Zahle,33.8434,35.9621,IS- Informal Settlement,Active,5,38,3,3,24,149,94,Camp
+51139-01-006,Bekaa,Zahle,33.851,35.94732,IS- Informal Settlement,Active,7,24,1,1,226,294,210,Camp
+51139-01-007,Bekaa,Zahle,33.86253,35.95719,IS- Informal Settlement,Less than 4,1,10,0,0,64,287,218,Camp
+51151-01-001,Bekaa,Zahle,33.8696,35.9904,IS- Informal Settlement,Active,12,80,12,12,77,188,260,Camp
+51151-01-002,Bekaa,Zahle,33.8677,35.9915,IS- Informal Settlement,Less than 4,3,17,3,3,290,248,150,Camp
+51151-01-003,Bekaa,Zahle,33.8677,35.9898,IS- Informal Settlement,Active,5,28,2,2,191,166,278,Camp
+51151-01-006,Bekaa,Zahle,33.86641,35.99158,IS- Informal Settlement,Less than 4,1,8,1,1,191,107,292,Camp
+51163-01-001,Bekaa,Zahle,33.8731,35.9547,IS- Informal Settlement,Less than 4,3,18,3,3,206,237,232,Camp
+51163-01-002,Bekaa,Zahle,33.8726,35.957,IS- Informal Settlement,Active,10,58,10,10,196,119,232,Camp
+51163-01-003,Bekaa,Zahle,33.8711,35.9562,IS- Informal Settlement,Active,4,32,4,4,268,140,79,Camp
+51163-01-004,Bekaa,Zahle,33.8677,35.9556,IS- Informal Settlement,Active,11,88,9,9,248,90,197,Camp
+51163-01-005,Bekaa,Zahle,33.8575,35.9703,IS- Informal Settlement,Less than 4,2,10,2,2,290,38,137,Camp
+51163-01-006,Bekaa,Zahle,33.8572,35.9631,IS- Informal Settlement,Less than 4,2,9,2,2,294,180,293,Camp
+51163-01-007,Bekaa,Zahle,33.8598,35.9602,IS- Informal Settlement,Less than 4,3,14,3,3,88,159,40,Camp
+51163-01-008,Bekaa,Zahle,33.856,35.9626,IS- Informal Settlement,Less than 4,2,11,1,1,60,209,80,Camp
+51163-01-009,Bekaa,Zahle,33.8705,35.956,IS- Informal Settlement,Less than 4,1,4,1,1,43,232,117,Camp
+51163-01-010,Bekaa,Zahle,33.8718,35.9553,IS- Informal Settlement,Active,4,20,4,4,234,224,183,Camp
+51163-01-013,Bekaa,Zahle,33.8535,35.9644,IS- Informal Settlement,Less than 4,1,5,1,1,87,74,58,Camp
+51163-01-014,Bekaa,Zahle,33.8532,35.9688,IS- Informal Settlement,Less than 4,1,10,1,1,206,121,205,Camp
+51163-01-016,Bekaa,Zahle,33.87934,35.9603,IS- Informal Settlement,Less than 4,2,9,0,0,249,99,94,Camp
+51177-01-001,Bekaa,Zahle,33.8842,35.9771,IS- Informal Settlement,Active,5,30,2,2,268,283,195,Camp
+51177-01-002,Bekaa,Zahle,33.8848,35.9716,IS- Informal Settlement,Less than 4,1,9,1,1,200,287,244,Camp
+51177-01-003,Bekaa,Zahle,33.8796,35.9668,IS- Informal Settlement,Less than 4,1,6,1,1,141,91,92,Camp
+51177-01-004,Bekaa,Zahle,33.8784,35.97201,IS- Informal Settlement,Less than 4,2,17,2,2,200,270,110,Camp
+51177-01-005,Bekaa,Zahle,33.88706,35.97877,IS- Informal Settlement,Less than 4,2,6,0,0,249,224,175,Camp
+51214-01-001,Bekaa,Zahle,33.8145,35.8369,IS- Informal Settlement,Active,4,31,4,4,271,212,89,Camp
+51214-01-002,Bekaa,Zahle,33.8137,35.8389,IS- Informal Settlement,Less than 4,1,11,1,1,152,62,37,Camp
+51214-01-004,Bekaa,Zahle,33.8075,35.8461,IS- Informal Settlement,Less than 4,1,6,1,1,261,29,67,Camp
+51217-01-001,Bekaa,Zahle,33.8075,35.8346,IS- Informal Settlement,Active,5,31,1,1,155,272,150,Camp
+51217-01-002,Bekaa,Zahle,33.8077,35.8326,IS- Informal Settlement,Less than 4,3,15,2,2,134,96,47,Camp
+51217-01-003,Bekaa,Zahle,33.803,35.8443,IS- Informal Settlement,Less than 4,3,19,1,1,289,230,280,Camp
+51217-01-004,Bekaa,Zahle,33.8057,35.8357,IS- Informal Settlement,Less than 4,2,14,2,2,35,246,90,Camp
+51217-01-005,Bekaa,Zahle,33.789,35.845,IS- Informal Settlement,Active,11,52,12,12,27,94,97,Camp
+51217-01-006,Bekaa,Zahle,33.804,35.8377,IS- Informal Settlement,Active,17,101,6,6,285,255,93,Camp
+51217-01-007,Bekaa,Zahle,33.8055,35.8409,IS- Informal Settlement,Less than 4,2,14,1,1,296,192,117,Camp
+51217-01-008,Bekaa,Zahle,33.7928,35.8547,IS- Informal Settlement,Less than 4,2,18,1,1,229,236,117,Camp
+51217-01-009,Bekaa,Zahle,33.8065,35.842,IS- Informal Settlement,Less than 4,1,3,0,0,141,93,104,Camp
+51217-01-010,Bekaa,Zahle,33.8056,35.8392,IS- Informal Settlement,Less than 4,1,10,1,1,285,254,273,Camp
+51217-01-011,Bekaa,Zahle,33.79226,35.842,IS- Informal Settlement,Less than 4,3,28,1,3,51,253,177,Camp
+51221-01-001,Bekaa,Zahle,33.8046,35.8748,IS- Informal Settlement,Active,77,405,0,0,107,196,224,Camp
+51221-01-002,Bekaa,Zahle,33.8018,35.8784,IS- Informal Settlement,Active,6,36,5,5,191,98,147,Camp
+51221-01-003,Bekaa,Zahle,33.8099,35.8759,IS- Informal Settlement,Active,8,55,5,5,191,278,164,Camp
+51221-01-005,Bekaa,Zahle,33.7995,35.8826,IS- Informal Settlement,Active,14,78,10,10,297,227,162,Camp
+51221-01-006,Bekaa,Zahle,33.8065,35.8752,IS- Informal Settlement,Less than 4,3,16,2,2,197,12,134,Camp
+51221-01-007,Bekaa,Zahle,33.8047,35.8793,IS- Informal Settlement,Less than 4,2,4,1,1,124,166,206,Camp
+51221-01-008,Bekaa,Zahle,33.8109,35.8701,IS- Informal Settlement,Active,4,22,4,4,195,284,59,Camp
+51221-01-009,Bekaa,Zahle,33.8077,35.872,IS- Informal Settlement,Less than 4,1,11,0,0,103,253,88,Camp
+51221-01-010,Bekaa,Zahle,33.8097,35.8745,IS- Informal Settlement,Less than 4,2,17,2,2,271,182,234,Camp
+51221-01-011,Bekaa,Zahle,33.7984,35.8769,IS- Informal Settlement,Active,8,52,1,1,187,72,292,Camp
+51221-01-012,Bekaa,Zahle,33.8076,35.8752,IS- Informal Settlement,Less than 4,2,19,2,2,236,14,113,Camp
+51221-01-013,Bekaa,Zahle,33.7985,35.8828,IS- Informal Settlement,Less than 4,1,7,1,1,44,41,198,Camp
+51221-01-014,Bekaa,Zahle,33.804,35.8781,IS- Informal Settlement,Less than 4,1,5,0,0,258,96,72,Camp
+51221-01-015,Bekaa,Zahle,33.8055,35.8759,IS- Informal Settlement,Active,8,51,0,0,284,173,290,Camp
+51221-01-016,Bekaa,Zahle,33.80515,35.87659,IS- Informal Settlement,Less than 4,1,12,1,1,180,119,115,Camp
+51221-01-017,Bekaa,Zahle,33.79961,35.87621,IS- Informal Settlement,Less than 4,3,14,1,1,198,205,246,Camp
+51224-01-001,Bekaa,Zahle,33.8083,35.8472,IS- Informal Settlement,Less than 4,3,20,3,3,30,11,117,Camp
+51224-01-002,Bekaa,Zahle,33.8107,35.8453,IS- Informal Settlement,Active,5,18,3,3,49,68,53,Camp
+51224-01-003,Bekaa,Zahle,33.8039,35.8545,IS- Informal Settlement,Active,23,110,11,11,25,125,178,Camp
+51224-01-004,Bekaa,Zahle,33.7921,35.8616,IS- Informal Settlement,Active,4,21,3,3,143,110,226,Camp
+51224-01-005,Bekaa,Zahle,33.8024,35.8576,IS- Informal Settlement,Less than 4,2,15,3,3,94,289,44,Camp
+51224-01-006,Bekaa,Zahle,33.7991,35.8572,IS- Informal Settlement,Active,19,120,7,7,54,204,129,Camp
+51224-01-007,Bekaa,Zahle,33.7955,35.8622,IS- Informal Settlement,Active,7,34,4,4,77,274,193,Camp
+51224-01-008,Bekaa,Zahle,33.802,35.8536,IS- Informal Settlement,Active,7,43,1,1,173,260,236,Camp
+51224-01-009,Bekaa,Zahle,33.8089,35.8516,IS- Informal Settlement,Less than 4,3,18,2,2,32,275,56,Camp
+51224-01-011,Bekaa,Zahle,33.8084,35.8475,IS- Informal Settlement,Less than 4,1,7,1,1,88,187,75,Camp
+51224-01-012,Bekaa,Zahle,33.8085,35.8481,IS- Informal Settlement,Active,4,26,2,2,265,208,274,Camp
+51224-01-014,Bekaa,Zahle,33.8082,35.8531,IS- Informal Settlement,Active,4,28,1,1,20,242,175,Camp
+51224-01-016,Bekaa,Zahle,33.7943,35.8611,IS- Informal Settlement,Less than 4,1,0,1,1,225,69,252,Camp
+51224-01-018,Bekaa,Zahle,33.8057,35.8477,IS- Informal Settlement,Less than 4,3,13,1,1,30,42,48,Camp
+51224-01-019,Bekaa,Zahle,33.8076,35.8484,IS- Informal Settlement,Less than 4,1,3,1,1,282,177,291,Camp
+51224-01-021,Bekaa,Zahle,33.8017,35.8468,IS- Informal Settlement,Less than 4,2,12,0,0,287,217,197,Camp
+51224-01-022,Bekaa,Zahle,33.805,35.8484,IS- Informal Settlement,Less than 4,1,11,1,1,224,169,92,Camp
+51224-01-023,Bekaa,Zahle,33.80579,35.85344,IS- Informal Settlement,Less than 4,1,8,1,1,232,185,209,Camp
+51227-01-001,Bekaa,Zahle,33.7894,35.8846,IS- Informal Settlement,Active,32,212,29,29,11,56,15,Camp
+51227-01-002,Bekaa,Zahle,33.7885,35.8849,IS- Informal Settlement,Active,37,214,33,33,111,165,137,Camp
+51227-01-003,Bekaa,Zahle,33.7909,35.8833,IS- Informal Settlement,Active,38,245,38,38,42,70,211,Camp
+51227-01-004,Bekaa,Zahle,33.7963,35.8825,IS- Informal Settlement,Active,17,92,16,16,231,21,198,Camp
+51227-01-005,Bekaa,Zahle,33.7799,35.8836,IS- Informal Settlement,Active,32,198,26,26,70,220,182,Camp
+51227-01-007,Bekaa,Zahle,33.7926,35.8817,IS- Informal Settlement,Active,13,95,10,10,104,156,203,Camp
+51227-01-008,Bekaa,Zahle,33.7935,35.8832,IS- Informal Settlement,Active,35,240,28,28,95,206,53,Camp
+51227-01-011,Bekaa,Zahle,33.7996,35.8868,IS- Informal Settlement,Active,5,31,6,6,37,272,269,Camp
+51227-01-012,Bekaa,Zahle,33.795,35.8859,IS- Informal Settlement,Less than 4,3,22,4,4,10,26,38,Camp
+51227-01-013,Bekaa,Zahle,33.7938,35.8776,IS- Informal Settlement,Less than 4,3,21,2,2,169,45,293,Camp
+51227-01-014,Bekaa,Zahle,33.7984,35.888,IS- Informal Settlement,Active,4,17,4,4,218,244,18,Camp
+51227-01-015,Bekaa,Zahle,33.7967,35.8883,IS- Informal Settlement,Active,9,48,6,6,46,16,38,Camp
+51227-01-016,Bekaa,Zahle,33.7796,35.8862,IS- Informal Settlement,Less than 4,1,9,1,1,149,120,166,Camp
+51227-01-017,Bekaa,Zahle,33.7782,35.8853,IS- Informal Settlement,Less than 4,2,12,2,2,137,68,192,Camp
+51227-01-020,Bekaa,Zahle,33.7813,35.8826,IS- Informal Settlement,Active,7,38,7,7,252,148,184,Camp
+51227-01-021,Bekaa,Zahle,33.7774,35.8842,IS- Informal Settlement,Less than 4,1,12,1,1,196,206,97,Camp
+51227-01-023,Bekaa,Zahle,33.787,35.8819,IS- Informal Settlement,Less than 4,1,7,1,1,239,276,259,Camp
+51227-01-024,Bekaa,Zahle,33.784,35.8833,IS- Informal Settlement,Less than 4,2,14,2,2,151,147,131,Camp
+51227-01-026,Bekaa,Zahle,33.7802,35.8834,IS- Informal Settlement,Less than 4,3,25,0,0,117,186,286,Camp
+51227-01-027,Bekaa,Zahle,33.779,35.8853,IS- Informal Settlement,Less than 4,1,11,1,1,67,213,47,Camp
+51227-01-028,Bekaa,Zahle,33.7794,35.8802,IS- Informal Settlement,Less than 4,3,19,3,3,15,91,296,Camp
+51227-01-029,Bekaa,Zahle,33.7951,35.8908,IS- Informal Settlement,Active,4,31,4,4,83,29,106,Camp
+51227-01-030,Bekaa,Zahle,33.7984,35.8849,IS- Informal Settlement,Less than 4,3,10,2,2,165,289,154,Camp
+51227-01-031,Bekaa,Zahle,33.7948,35.8815,IS- Informal Settlement,Less than 4,2,12,1,1,20,206,119,Camp
+51227-01-032,Bekaa,Zahle,33.77888,35.8806,IS- Informal Settlement,Active,6,35,4,4,242,141,253,Camp
+51227-01-033,Bekaa,Zahle,33.77754,35.87783,IS- Informal Settlement,Less than 4,1,7,1,1,291,269,253,Camp
+51227-01-034,Bekaa,Zahle,33.79504,35.88694,IS- Informal Settlement,Active,8,51,4,8,109,10,285,Camp
+51227-01-035,Bekaa,Zahle,33.77726,35.88633,IS- Informal Settlement,Active,17,145,16,18,297,243,74,Camp
+51227-01-036,Bekaa,Zahle,33.78766,35.88329,IS- Informal Settlement,Less than 4,1,5,1,1,198,265,22,Camp
+51227-01-037,Bekaa,Zahle,33.77868,35.88511,IS- Informal Settlement,Active,6,39,3,3,282,192,122,Camp
+51227-01-038,Bekaa,Zahle,33.77899,35.88723,IS- Informal Settlement,Less than 4,2,23,3,2,25,227,57,Camp
+51231-01-001,Bekaa,Zahle,33.8152,35.8985,IS- Informal Settlement,Active,79,478,57,57,200,53,110,Camp
+51231-01-002,Bekaa,Zahle,33.8075,35.8938,IS- Informal Settlement,Active,4,14,2,2,98,204,90,Camp
+51231-01-003,Bekaa,Zahle,33.8146,35.8964,IS- Informal Settlement,Active,27,151,4,4,298,152,31,Camp
+51231-01-004,Bekaa,Zahle,33.8136,35.8928,IS- Informal Settlement,Active,21,125,11,11,235,79,185,Camp
+51231-01-005,Bekaa,Zahle,33.8095,35.9,IS- Informal Settlement,Active,24,155,15,15,124,260,24,Camp
+51231-01-006,Bekaa,Zahle,33.811,35.9005,IS- Informal Settlement,Less than 4,2,13,2,2,11,90,275,Camp
+51231-01-007,Bekaa,Zahle,33.8147,35.89,IS- Informal Settlement,Active,21,96,3,3,299,269,54,Camp
+51231-01-008,Bekaa,Zahle,33.802,35.9022,IS- Informal Settlement,Active,29,171,31,31,268,260,205,Camp
+51231-01-009,Bekaa,Zahle,33.8131,35.8867,IS- Informal Settlement,Active,10,60,11,11,185,284,181,Camp
+51231-01-010,Bekaa,Zahle,33.8057,35.9045,IS- Informal Settlement,Active,19,102,13,13,217,62,292,Camp
+51231-01-012,Bekaa,Zahle,33.8059,35.9064,IS- Informal Settlement,Active,12,72,7,7,10,269,218,Camp
+51231-01-013,Bekaa,Zahle,33.81296,35.90007,IS- Informal Settlement,Active,22,91,9,9,156,272,43,Camp
+51231-01-014,Bekaa,Zahle,33.811,35.9035,IS- Informal Settlement,Active,18,106,8,8,161,236,165,Camp
+51231-01-015,Bekaa,Zahle,33.8134,35.8857,IS- Informal Settlement,Active,17,95,0,0,197,145,124,Camp
+51231-01-016,Bekaa,Zahle,33.8125,35.8857,IS- Informal Settlement,Active,20,126,14,14,182,68,220,Camp
+51231-01-017,Bekaa,Zahle,33.8128,35.8861,IS- Informal Settlement,Less than 4,2,9,2,2,223,226,61,Camp
+51231-01-018,Bekaa,Zahle,33.8128,35.8875,IS- Informal Settlement,Active,8,40,8,8,172,26,219,Camp
+51231-01-019,Bekaa,Zahle,33.8142,35.9052,IS- Informal Settlement,Active,44,311,52,52,115,191,280,Camp
+51231-01-021,Bekaa,Zahle,33.8141,35.8952,IS- Informal Settlement,Active,55,340,55,55,230,266,88,Camp
+51231-01-022,Bekaa,Zahle,33.8021,35.9063,IS- Informal Settlement,Active,60,303,31,31,135,165,238,Camp
+51231-01-023,Bekaa,Zahle,33.8166,35.8772,IS- Informal Settlement,Active,18,95,18,18,44,171,281,Camp
+51231-01-024,Bekaa,Zahle,33.8089,35.89,IS- Informal Settlement,Active,10,65,7,7,214,238,72,Camp
+51231-01-025,Bekaa,Zahle,33.8137,35.9042,IS- Informal Settlement,Active,28,173,26,26,75,263,237,Camp
+51231-01-026,Bekaa,Zahle,33.8021,35.9043,IS- Informal Settlement,Active,7,32,4,4,189,208,300,Camp
+51231-01-027,Bekaa,Zahle,33.8067,35.9053,IS- Informal Settlement,Active,8,63,4,4,279,201,172,Camp
+51231-01-028,Bekaa,Zahle,33.8181,35.889,IS- Informal Settlement,Less than 4,3,21,1,1,194,207,60,Camp
+51231-01-029,Bekaa,Zahle,33.8063,35.8875,IS- Informal Settlement,Active,46,258,35,35,123,155,18,Camp
+51231-01-030,Bekaa,Zahle,33.8077,35.8868,IS- Informal Settlement,Active,14,74,14,14,140,66,22,Camp
+51231-01-031,Bekaa,Zahle,33.809,35.886,IS- Informal Settlement,Active,7,38,6,6,109,93,261,Camp
+51231-01-032,Bekaa,Zahle,33.8106,35.8834,IS- Informal Settlement,Active,21,101,22,22,185,298,57,Camp
+51231-01-034,Bekaa,Zahle,33.8257,35.8804,IS- Informal Settlement,Active,8,41,6,6,86,51,290,Camp
+51231-01-035,Bekaa,Zahle,33.8137,35.8961,IS- Informal Settlement,Active,4,31,2,2,112,283,141,Camp
+51231-01-036,Bekaa,Zahle,33.814,35.8873,IS- Informal Settlement,Active,7,50,0,0,44,96,21,Camp
+51231-01-037,Bekaa,Zahle,33.8142,35.8922,IS- Informal Settlement,Active,11,74,4,4,65,217,247,Camp
+51231-01-040,Bekaa,Zahle,33.805,35.9012,IS- Informal Settlement,Less than 4,3,16,2,2,237,61,212,Camp
+51231-01-041,Bekaa,Zahle,33.8063,35.8991,IS- Informal Settlement,Less than 4,1,4,1,1,271,293,192,Camp
+51231-01-042,Bekaa,Zahle,33.8077,35.8986,IS- Informal Settlement,Active,19,124,10,10,258,258,279,Camp
+51231-01-043,Bekaa,Zahle,33.8144,35.9018,IS- Informal Settlement,Active,19,102,10,10,215,165,100,Camp
+51231-01-044,Bekaa,Zahle,33.8025,35.9002,IS- Informal Settlement,Active,4,30,1,1,275,211,246,Camp
+51231-01-045,Bekaa,Zahle,33.8125,35.897,IS- Informal Settlement,Active,58,342,31,31,123,94,155,Camp
+51231-01-046,Bekaa,Zahle,33.8087,35.8975,IS- Informal Settlement,Less than 4,2,26,2,2,168,178,167,Camp
+51231-01-047,Bekaa,Zahle,33.8179,35.8793,IS- Informal Settlement,Active,4,22,2,2,17,24,217,Camp
+51231-01-048,Bekaa,Zahle,33.8095,35.8893,IS- Informal Settlement,Active,38,211,0,0,187,117,42,Camp
+51231-01-049,Bekaa,Zahle,33.8108,35.8959,IS- Informal Settlement,Less than 4,3,24,3,3,110,63,196,Camp
+51231-01-050,Bekaa,Zahle,33.8096,35.8939,IS- Informal Settlement,Less than 4,3,17,1,1,219,81,203,Camp
+51231-01-052,Bekaa,Zahle,33.8073,35.9092,IS- Informal Settlement,Less than 4,2,7,1,1,46,150,129,Camp
+51231-01-053,Bekaa,Zahle,33.8104,35.8852,IS- Informal Settlement,Active,6,33,3,3,279,154,53,Camp
+51231-01-054,Bekaa,Zahle,33.8075,35.9054,IS- Informal Settlement,Active,5,34,3,3,56,182,138,Camp
+51231-01-055,Bekaa,Zahle,33.8069,35.9102,IS- Informal Settlement,Active,27,156,13,13,129,99,201,Camp
+51231-01-056,Bekaa,Zahle,33.8065,35.9067,IS- Informal Settlement,Active,6,37,2,2,29,237,169,Camp
+51231-01-057,Bekaa,Zahle,33.8137,35.8992,IS- Informal Settlement,Active,15,77,6,6,131,261,33,Camp
+51231-01-058,Bekaa,Zahle,33.82,35.8874,IS- Informal Settlement,Active,12,72,4,4,210,70,256,Camp
+51231-01-059,Bekaa,Zahle,33.811,35.9013,IS- Informal Settlement,Less than 4,2,9,2,2,259,135,42,Camp
+51231-01-060,Bekaa,Zahle,33.80683,35.88604,IS- Informal Settlement,Less than 4,2,13,2,2,257,267,22,Camp
+51231-01-061,Bekaa,Zahle,33.81409,35.89483,IS- Informal Settlement,Active,17,109,17,17,94,270,10,Camp
+51231-01-062,Bekaa,Zahle,33.80886,35.8961,IS- Informal Settlement,Active,57,326,48,48,203,181,86,Camp
+51231-01-063,Bekaa,Zahle,33.81332,35.89869,IS- Informal Settlement,Active,7,38,6,6,70,275,276,Camp
+51231-01-064,Bekaa,Zahle,33.83009,35.87848,IS- Informal Settlement,Less than 4,2,12,1,1,254,67,57,Camp
+51231-01-065,Bekaa,Zahle,33.8069,35.88762,IS- Informal Settlement,Less than 4,1,15,1,1,227,151,135,Camp
+51231-01-067,Bekaa,Zahle,33.80692,35.89458,IS- Informal Settlement,Active,7,41,6,6,25,106,229,Camp
+51234-01-001,Bekaa,Zahle,33.7808,35.8199,IS- Informal Settlement,Active,33,220,20,20,276,139,28,Camp
+51234-01-003,Bekaa,Zahle,33.784,35.8218,IS- Informal Settlement,Active,39,220,32,32,176,295,57,Camp
+51234-01-004,Bekaa,Zahle,33.793,35.8263,IS- Informal Settlement,Active,10,56,8,8,162,192,50,Camp
+51234-01-007,Bekaa,Zahle,33.7847,35.8213,IS- Informal Settlement,Active,130,796,119,119,90,76,270,Camp
+51234-01-008,Bekaa,Zahle,33.7815,35.8204,IS- Informal Settlement,Active,33,242,20,20,102,73,278,Camp
+51234-01-009,Bekaa,Zahle,33.7854,35.8216,IS- Informal Settlement,Active,21,147,21,21,176,21,186,Camp
+51234-01-011,Bekaa,Zahle,33.7864,35.8231,IS- Informal Settlement,Active,9,61,9,9,260,40,248,Camp
+51234-01-014,Bekaa,Zahle,33.7887,35.845,IS- Informal Settlement,Active,15,92,15,15,232,112,18,Camp
+51234-01-015,Bekaa,Zahle,33.7771,35.8139,IS- Informal Settlement,Active,11,72,6,6,105,241,77,Camp
+51234-01-016,Bekaa,Zahle,33.7773,35.8163,IS- Informal Settlement,Active,4,34,2,2,95,136,216,Camp
+51234-01-017,Bekaa,Zahle,33.7765,35.8158,IS- Informal Settlement,Active,11,62,11,11,105,134,205,Camp
+51234-01-019,Bekaa,Zahle,33.7843,35.8217,IS- Informal Settlement,Active,56,360,52,52,213,210,36,Camp
+51234-01-021,Bekaa,Zahle,33.7876,35.8232,IS- Informal Settlement,Active,13,88,13,13,280,247,49,Camp
+51234-01-022,Bekaa,Zahle,33.7867,35.8273,IS- Informal Settlement,Active,30,167,26,26,133,181,31,Camp
+51234-01-023,Bekaa,Zahle,33.7831,35.8488,IS- Informal Settlement,Active,10,63,10,10,293,63,11,Camp
+51234-01-024,Bekaa,Zahle,33.7893,35.8319,IS- Informal Settlement,Less than 4,2,20,2,2,274,67,71,Camp
+51234-01-025,Bekaa,Zahle,33.786,35.829,IS- Informal Settlement,Active,13,95,8,8,11,296,245,Camp
+51234-01-026,Bekaa,Zahle,33.7875,35.8274,IS- Informal Settlement,Active,35,199,35,35,64,67,191,Camp
+51234-01-027,Bekaa,Zahle,33.7889,35.8238,IS- Informal Settlement,Less than 4,3,29,2,2,144,60,256,Camp
+51234-01-028,Bekaa,Zahle,33.7883,35.8232,IS- Informal Settlement,Active,9,68,3,3,254,129,195,Camp
+51234-01-029,Bekaa,Zahle,33.787,35.8234,IS- Informal Settlement,Active,21,136,13,13,274,139,208,Camp
+51234-01-030,Bekaa,Zahle,33.7705,35.8119,IS- Informal Settlement,Active,7,42,5,5,49,91,296,Camp
+51234-01-031,Bekaa,Zahle,33.779,35.8203,IS- Informal Settlement,Active,23,190,20,20,268,38,104,Camp
+51234-01-032,Bekaa,Zahle,33.7808,35.8226,IS- Informal Settlement,Active,21,165,12,12,250,47,21,Camp
+51234-01-033,Bekaa,Zahle,33.7834,35.8254,IS- Informal Settlement,Less than 4,2,17,2,2,300,180,216,Camp
+51234-01-036,Bekaa,Zahle,33.7848,35.8281,IS- Informal Settlement,Less than 4,1,11,1,1,269,179,121,Camp
+51234-01-040,Bekaa,Zahle,33.7813,35.8344,IS- Informal Settlement,Less than 4,1,5,1,1,65,150,279,Camp
+51234-01-041,Bekaa,Zahle,33.781,35.8329,IS- Informal Settlement,Less than 4,3,19,2,2,198,35,15,Camp
+51234-01-042,Bekaa,Zahle,33.788,35.8246,IS- Informal Settlement,Less than 4,1,7,1,1,227,122,126,Camp
+51234-01-043,Bekaa,Zahle,33.7902,35.8238,IS- Informal Settlement,Less than 4,1,5,1,1,43,225,57,Camp
+51234-01-044,Bekaa,Zahle,33.7868,35.8218,IS- Informal Settlement,Less than 4,3,13,1,1,168,90,46,Camp
+51234-01-045,Bekaa,Zahle,33.7748,35.8401,IS- Informal Settlement,Less than 4,2,28,2,2,215,290,235,Camp
+51234-01-046,Bekaa,Zahle,33.7885,35.8262,IS- Informal Settlement,Less than 4,2,7,1,1,113,66,160,Camp
+51234-01-047,Bekaa,Zahle,33.7822,35.826,IS- Informal Settlement,Less than 4,2,18,2,2,109,88,254,Camp
+51234-01-048,Bekaa,Zahle,33.7871,35.8237,IS- Informal Settlement,Active,17,121,17,17,71,238,82,Camp
+51234-01-050,Bekaa,Zahle,33.7751,35.8284,IS- Informal Settlement,Active,5,40,3,3,47,43,149,Camp
+51234-01-052,Bekaa,Zahle,33.7803,35.8286,IS- Informal Settlement,Less than 4,3,16,3,3,157,12,108,Camp
+51234-01-053,Bekaa,Zahle,33.778,35.8287,IS- Informal Settlement,Less than 4,2,11,1,1,227,246,98,Camp
+51234-01-055,Bekaa,Zahle,33.7858,35.8191,IS- Informal Settlement,Less than 4,2,17,2,2,242,192,66,Camp
+51234-01-056,Bekaa,Zahle,33.7883,35.8215,IS- Informal Settlement,Less than 4,2,8,1,1,63,239,277,Camp
+51234-01-057,Bekaa,Zahle,33.7902,35.8257,IS- Informal Settlement,Less than 4,3,26,2,2,237,36,91,Camp
+51234-01-058,Bekaa,Zahle,33.7995,35.8322,IS- Informal Settlement,Less than 4,1,6,1,1,24,183,298,Camp
+51234-01-059,Bekaa,Zahle,33.798,35.8336,IS- Informal Settlement,Less than 4,2,7,0,0,114,156,267,Camp
+51234-01-060,Bekaa,Zahle,33.7954,35.8308,IS- Informal Settlement,Less than 4,1,8,0,0,290,160,177,Camp
+51234-01-061,Bekaa,Zahle,33.7926,35.8346,IS- Informal Settlement,Less than 4,1,8,1,1,100,227,289,Camp
+51234-01-062,Bekaa,Zahle,33.7896,35.8367,IS- Informal Settlement,Less than 4,1,11,1,1,287,35,155,Camp
+51234-01-064,Bekaa,Zahle,33.7772,35.8345,IS- Informal Settlement,Less than 4,1,2,1,1,88,165,156,Camp
+51234-01-065,Bekaa,Zahle,33.7807,35.8372,IS- Informal Settlement,Less than 4,1,6,1,1,106,17,184,Camp
+51234-01-066,Bekaa,Zahle,33.7813,35.821,IS- Informal Settlement,Active,61,405,61,61,89,55,291,Camp
+51234-01-068,Bekaa,Zahle,33.7823,35.8353,IS- Informal Settlement,Less than 4,1,10,2,2,175,276,113,Camp
+51234-01-069,Bekaa,Zahle,33.7975,35.836,IS- Informal Settlement,Active,11,62,2,2,147,186,41,Camp
+51234-01-071,Bekaa,Zahle,33.7864,35.8245,IS- Informal Settlement,Active,7,38,4,4,80,155,76,Camp
+51234-01-072,Bekaa,Zahle,33.7927,35.8265,IS- Informal Settlement,Active,24,154,31,31,242,279,225,Camp
+51234-01-073,Bekaa,Zahle,33.7856,35.8368,IS- Informal Settlement,Less than 4,2,10,0,0,279,253,69,Camp
+51234-01-074,Bekaa,Zahle,33.7806,35.8429,IS- Informal Settlement,Less than 4,2,11,0,0,18,234,294,Camp
+51234-01-075,Bekaa,Zahle,33.7908,35.8311,IS- Informal Settlement,Less than 4,2,18,2,2,105,292,234,Camp
+51234-01-078,Bekaa,Zahle,33.7949,35.827,IS- Informal Settlement,Less than 4,1,8,1,1,176,110,300,Camp
+51234-01-080,Bekaa,Zahle,33.7831,35.846,IS- Informal Settlement,Less than 4,2,8,1,1,194,17,201,Camp
+51234-01-081,Bekaa,Zahle,33.7712,35.8124,IS- Informal Settlement,Active,5,44,4,4,211,59,53,Camp
+51234-01-082,Bekaa,Zahle,33.7898,35.8345,IS- Informal Settlement,Less than 4,1,11,1,1,68,112,97,Camp
+51234-01-083,Bekaa,Zahle,33.7869,35.8369,IS- Informal Settlement,Less than 4,1,5,1,1,201,98,97,Camp
+51234-01-084,Bekaa,Zahle,33.787,35.8323,IS- Informal Settlement,Less than 4,1,0,0,0,66,266,200,Camp
+51234-01-085,Bekaa,Zahle,33.7926,35.8278,IS- Informal Settlement,Active,6,36,3,3,26,104,151,Camp
+51234-01-087,Bekaa,Zahle,33.79,35.8372,IS- Informal Settlement,Less than 4,1,9,1,1,106,36,158,Camp
+51234-01-088,Bekaa,Zahle,33.7785,35.8332,IS- Informal Settlement,Less than 4,1,6,1,1,237,265,82,Camp
+51234-01-089,Bekaa,Zahle,33.765,35.8446,IS- Informal Settlement,Active,5,24,5,5,262,184,198,Camp
+51234-01-090,Bekaa,Zahle,33.7718,35.8313,IS- Informal Settlement,Less than 4,1,8,1,1,280,140,274,Camp
+51234-01-091,Bekaa,Zahle,33.7896,35.8288,IS- Informal Settlement,Less than 4,1,7,1,1,142,150,276,Camp
+51234-01-092,Bekaa,Zahle,33.79112,35.83299,IS- Informal Settlement,Less than 4,1,7,1,1,63,51,52,Camp
+51234-01-093,Bekaa,Zahle,33.79453,35.82877,IS- Informal Settlement,Less than 4,1,7,1,1,261,57,84,Camp
+51234-01-094,Bekaa,Zahle,33.78867,35.82335,IS- Informal Settlement,Less than 4,3,22,3,3,160,38,53,Camp
+51234-01-095,Bekaa,Zahle,33.79455,35.825,IS- Informal Settlement,Less than 4,1,5,1,1,200,39,141,Camp
+51234-01-096,Bekaa,Zahle,33.79683,35.82891,IS- Informal Settlement,Less than 4,2,12,1,1,14,297,228,Camp
+51234-01-097,Bekaa,Zahle,33.79871,35.83015,IS- Informal Settlement,Less than 4,2,7,1,1,62,125,41,Camp
+51237-01-001,Bekaa,Zahle,33.7819,35.8567,IS- Informal Settlement,Active,72,650,54,54,241,20,142,Camp
+51237-01-002,Bekaa,Zahle,33.7763,35.8543,IS- Informal Settlement,Active,6,34,3,3,31,69,198,Camp
+51247-01-001,Bekaa,Zahle,33.77533,35.87473,IS- Informal Settlement,Less than 4,1,7,0,0,80,78,216,Camp
+51251-01-001,Bekaa,Zahle,33.77,35.8142,IS- Informal Settlement,Active,28,185,20,20,203,239,100,Camp
+51251-01-002,Bekaa,Zahle,33.7775,35.8193,IS- Informal Settlement,Active,8,45,3,3,175,25,33,Camp
+51251-01-003,Bekaa,Zahle,33.7703,35.8152,IS- Informal Settlement,Active,5,27,3,3,14,200,96,Camp
+51251-01-004,Bekaa,Zahle,33.76274,35.8194,IS- Informal Settlement,Active,13,95,9,9,32,165,230,Camp
+51264-01-002,Bekaa,Zahle,33.7595,35.8079,IS- Informal Settlement,Active,27,250,25,25,12,42,98,Camp
+51264-01-003,Bekaa,Zahle,33.7603,35.8085,IS- Informal Settlement,Active,34,217,35,35,292,35,286,Camp
+51264-01-004,Bekaa,Zahle,33.764,35.8105,IS- Informal Settlement,Less than 4,2,11,2,2,25,161,22,Camp
+51267-01-002,Bekaa,Zahle,33.7783,35.9296,IS- Informal Settlement,Active,7,29,6,6,56,287,224,Camp
+51267-01-003,Bekaa,Zahle,33.7633,35.9114,IS- Informal Settlement,Active,7,31,4,4,199,214,70,Camp
+51267-01-005,Bekaa,Zahle,33.7891,35.9413,IS- Informal Settlement,Active,14,81,7,7,96,215,189,Camp
+51267-01-006,Bekaa,Zahle,33.7894,35.9449,IS- Informal Settlement,Active,17,91,14,14,128,57,118,Camp
+51267-01-008,Bekaa,Zahle,33.7778,35.934,IS- Informal Settlement,Active,7,44,5,5,275,209,280,Camp
+51267-01-009,Bekaa,Zahle,33.7761,35.9358,IS- Informal Settlement,Less than 4,3,15,2,2,161,249,240,Camp
+51267-01-010,Bekaa,Zahle,33.7747,35.9183,IS- Informal Settlement,Active,71,490,41,41,137,203,72,Camp
+51267-01-011,Bekaa,Zahle,33.7655,35.9151,IS- Informal Settlement,Active,57,432,29,29,290,168,74,Camp
+51267-01-012,Bekaa,Zahle,33.7708,35.9098,IS- Informal Settlement,Active,27,193,18,18,249,286,13,Camp
+51267-01-013,Bekaa,Zahle,33.7686,35.9119,IS- Informal Settlement,Active,66,399,46,46,24,208,132,Camp
+51267-01-014,Bekaa,Zahle,33.7792,35.9279,IS- Informal Settlement,Active,33,201,26,26,288,165,118,Camp
+51267-01-015,Bekaa,Zahle,33.7819,35.9091,IS- Informal Settlement,Active,12,44,6,6,174,175,64,Camp
+51267-01-016,Bekaa,Zahle,33.7939,35.9457,IS- Informal Settlement,Less than 4,3,22,2,2,171,166,83,Camp
+51267-01-017,Bekaa,Zahle,33.7637,35.9088,IS- Informal Settlement,Active,48,275,26,26,82,227,153,Camp
+51267-01-018,Bekaa,Zahle,33.7882,35.9422,IS- Informal Settlement,Active,125,871,124,124,79,105,64,Camp
+51267-01-019,Bekaa,Zahle,33.7874,35.9422,IS- Informal Settlement,Active,11,48,11,11,187,175,258,Camp
+51267-01-021,Bekaa,Zahle,33.7627,35.9103,IS- Informal Settlement,Active,8,44,2,2,167,40,282,Camp
+51267-01-022,Bekaa,Zahle,33.7823,35.9064,IS- Informal Settlement,Active,14,75,7,7,101,110,217,Camp
+51267-01-023,Bekaa,Zahle,33.7835,35.906,IS- Informal Settlement,Active,26,132,20,20,133,35,278,Camp
+51267-01-024,Bekaa,Zahle,33.7628,35.917,IS- Informal Settlement,Active,39,201,21,21,42,186,228,Camp
+51267-01-025,Bekaa,Zahle,33.7756,35.9133,IS- Informal Settlement,Active,8,29,3,3,180,274,73,Camp
+51267-01-026,Bekaa,Zahle,33.7672,35.9105,IS- Informal Settlement,Active,38,270,26,26,243,285,109,Camp
+51267-01-028,Bekaa,Zahle,33.7909,35.944,IS- Informal Settlement,Active,85,483,46,46,25,52,223,Camp
+51267-01-030,Bekaa,Zahle,33.763,35.8999,IS- Informal Settlement,Active,4,22,2,2,283,25,102,Camp
+51267-01-031,Bekaa,Zahle,33.7727,35.9163,IS- Informal Settlement,Active,16,86,12,12,164,10,291,Camp
+51267-01-032,Bekaa,Zahle,33.7738,35.9076,IS- Informal Settlement,Active,6,45,4,4,237,278,190,Camp
+51267-01-033,Bekaa,Zahle,33.7632,35.9122,IS- Informal Settlement,Active,6,41,6,6,14,228,141,Camp
+51267-01-034,Bekaa,Zahle,33.7747,35.8938,IS- Informal Settlement,Active,16,84,13,13,25,104,125,Camp
+51267-01-035,Bekaa,Zahle,33.794,35.9206,IS- Informal Settlement,Active,45,235,45,45,133,202,64,Camp
+51267-01-036,Bekaa,Zahle,33.7976,35.9267,IS- Informal Settlement,Active,45,279,10,10,203,121,259,Camp
+51267-01-038,Bekaa,Zahle,33.7803,35.934,IS- Informal Settlement,Active,19,54,9,9,113,72,256,Camp
+51267-01-039,Bekaa,Zahle,33.7792,35.9391,IS- Informal Settlement,Less than 4,3,11,1,1,209,217,251,Camp
+51267-01-040,Bekaa,Zahle,33.7795,35.9377,IS- Informal Settlement,Active,14,90,9,9,287,285,109,Camp
+51267-01-041,Bekaa,Zahle,33.7681,35.9115,IS- Informal Settlement,Active,25,157,20,20,276,267,199,Camp
+51267-01-042,Bekaa,Zahle,33.7648,35.916,IS- Informal Settlement,Active,15,76,11,11,47,299,298,Camp
+51267-01-043,Bekaa,Zahle,33.7806,35.9413,IS- Informal Settlement,Active,5,25,2,2,232,50,213,Camp
+51267-01-044,Bekaa,Zahle,33.7651,35.9157,IS- Informal Settlement,Active,4,25,3,3,92,140,118,Camp
+51267-01-045,Bekaa,Zahle,33.7904,35.9422,IS- Informal Settlement,Active,73,471,46,46,231,103,229,Camp
+51267-01-046,Bekaa,Zahle,33.7873,35.9107,IS- Informal Settlement,Active,37,283,39,39,222,249,199,Camp
+51267-01-047,Bekaa,Zahle,33.7831,35.9088,IS- Informal Settlement,Active,60,276,0,0,233,77,161,Camp
+51267-01-048,Bekaa,Zahle,33.7994,35.929,IS- Informal Settlement,Active,20,88,20,20,14,279,285,Camp
+51267-01-050,Bekaa,Zahle,33.796,35.9224,IS- Informal Settlement,Less than 4,1,6,1,1,240,18,150,Camp
+51267-01-052,Bekaa,Zahle,33.7924,35.9178,IS- Informal Settlement,Less than 4,2,12,2,2,248,219,219,Camp
+51267-01-053,Bekaa,Zahle,33.7916,35.9128,IS- Informal Settlement,Less than 4,2,9,2,2,78,279,63,Camp
+51267-01-054,Bekaa,Zahle,33.769,35.897,IS- Informal Settlement,Less than 4,1,7,1,1,107,225,241,Camp
+51267-01-055,Bekaa,Zahle,33.7659,35.8959,IS- Informal Settlement,Less than 4,2,6,1,1,275,286,206,Camp
+51267-01-056,Bekaa,Zahle,33.7645,35.9045,IS- Informal Settlement,Less than 4,1,6,1,1,125,100,272,Camp
+51267-01-057,Bekaa,Zahle,33.7665,35.9143,IS- Informal Settlement,Less than 4,1,1,1,1,92,247,193,Camp
+51267-01-058,Bekaa,Zahle,33.762,35.9112,IS- Informal Settlement,Active,7,20,2,2,55,188,176,Camp
+51267-01-060,Bekaa,Zahle,33.7609,35.926,IS- Informal Settlement,Less than 4,3,17,1,1,64,180,41,Camp
+51267-01-062,Bekaa,Zahle,33.7939,35.9391,IS- Informal Settlement,Active,47,265,32,32,247,239,115,Camp
+51267-01-063,Bekaa,Zahle,33.7562,35.9124,IS- Informal Settlement,Active,29,153,10,10,286,10,131,Camp
+51267-01-068,Bekaa,Zahle,33.7593,35.9149,IS- Informal Settlement,Active,12,79,10,10,38,280,114,Camp
+51267-01-069,Bekaa,Zahle,33.7593,35.9148,IS- Informal Settlement,Active,12,55,7,7,186,220,256,Camp
+51267-01-070,Bekaa,Zahle,33.7796,35.9321,IS- Informal Settlement,Less than 4,1,8,1,1,38,261,177,Camp
+51267-01-072,Bekaa,Zahle,33.7771,35.9288,IS- Informal Settlement,Active,5,33,5,5,80,61,208,Camp
+51267-01-073,Bekaa,Zahle,33.7775,35.9201,IS- Informal Settlement,Active,5,37,5,5,118,136,96,Camp
+51267-01-074,Bekaa,Zahle,33.7964,35.9255,IS- Informal Settlement,Active,9,36,4,4,49,247,296,Camp
+51267-01-075,Bekaa,Zahle,33.7985,35.9437,IS- Informal Settlement,Active,20,97,21,21,166,64,22,Camp
+51267-01-076,Bekaa,Zahle,33.7979,35.9329,IS- Informal Settlement,Active,5,19,1,1,139,266,182,Camp
+51267-01-078,Bekaa,Zahle,33.7607,35.924,IS- Informal Settlement,Active,4,23,1,1,17,109,263,Camp
+51267-01-079,Bekaa,Zahle,33.7991,35.9462,IS- Informal Settlement,Active,13,75,4,4,271,176,12,Camp
+51267-01-081,Bekaa,Zahle,33.7909,35.9358,IS- Informal Settlement,Less than 4,1,7,1,1,70,123,138,Camp
+51267-01-082,Bekaa,Zahle,33.7595,35.9137,IS- Informal Settlement,Less than 4,1,9,0,0,80,88,160,Camp
+51267-01-083,Bekaa,Zahle,33.7641,35.9186,IS- Informal Settlement,Less than 4,1,7,1,1,220,150,295,Camp
+51267-01-084,Bekaa,Zahle,33.7896,35.934,IS- Informal Settlement,Active,43,250,30,30,30,96,227,Camp
+51267-01-085,Bekaa,Zahle,33.7709,35.9095,IS- Informal Settlement,Active,17,98,14,14,110,47,128,Camp
+51267-01-086,Bekaa,Zahle,33.7877,35.9114,IS- Informal Settlement,Less than 4,1,8,0,0,244,165,262,Camp
+51267-01-087,Bekaa,Zahle,33.7952,35.9212,IS- Informal Settlement,Less than 4,3,23,2,2,261,265,21,Camp
+51267-01-088,Bekaa,Zahle,33.8021,35.9322,IS- Informal Settlement,Active,5,31,2,2,193,228,281,Camp
+51267-01-089,Bekaa,Zahle,33.785,35.9135,IS- Informal Settlement,Active,13,88,10,10,290,271,84,Camp
+51267-01-091,Bekaa,Zahle,33.7948,35.9466,IS- Informal Settlement,Less than 4,1,4,1,1,42,138,298,Camp
+51267-01-093,Bekaa,Zahle,33.7882,35.9427,IS- Informal Settlement,Less than 4,1,8,1,1,227,185,263,Camp
+51267-01-094,Bekaa,Zahle,33.7902,35.9446,IS- Informal Settlement,Active,5,44,5,5,285,217,73,Camp
+51267-01-095,Bekaa,Zahle,33.7883,35.943,IS- Informal Settlement,Active,15,73,7,7,253,205,277,Camp
+51267-01-096,Bekaa,Zahle,33.789,35.9434,IS- Informal Settlement,Active,22,150,22,22,298,206,154,Camp
+51267-01-099,Bekaa,Zahle,33.7772,35.9345,IS- Informal Settlement,Active,30,203,18,18,59,63,288,Camp
+51267-01-100,Bekaa,Zahle,33.7831,35.9474,IS- Informal Settlement,Less than 4,1,8,1,1,219,254,291,Camp
+51267-01-101,Bekaa,Zahle,33.7815,35.9445,IS- Informal Settlement,Less than 4,1,2,1,1,84,218,279,Camp
+51267-01-102,Bekaa,Zahle,33.7797,35.9387,IS- Informal Settlement,Active,8,36,2,2,291,25,199,Camp
+51267-01-104,Bekaa,Zahle,33.7901,35.9421,IS- Informal Settlement,Active,9,60,9,9,90,295,156,Camp
+51267-01-105,Bekaa,Zahle,33.7929,35.941,IS- Informal Settlement,Active,4,19,3,3,239,127,162,Camp
+51267-01-106,Bekaa,Zahle,33.7917,35.9427,IS- Informal Settlement,Less than 4,3,20,1,1,126,51,187,Camp
+51267-01-108,Bekaa,Zahle,33.7976,35.9461,IS- Informal Settlement,Less than 4,2,16,2,2,84,143,85,Camp
+51267-01-109,Bekaa,Zahle,33.7991,35.9465,IS- Informal Settlement,Active,8,45,4,4,119,267,76,Camp
+51267-01-111,Bekaa,Zahle,33.7987,35.9459,IS- Informal Settlement,Active,5,32,2,2,221,199,12,Camp
+51267-01-112,Bekaa,Zahle,33.76,35.9148,IS- Informal Settlement,Less than 4,3,18,3,3,192,119,92,Camp
+51267-01-113,Bekaa,Zahle,33.7783,35.9331,IS- Informal Settlement,Less than 4,3,18,3,3,168,165,269,Camp
+51267-01-114,Bekaa,Zahle,33.796,35.9407,IS- Informal Settlement,Less than 4,1,6,1,1,56,262,287,Camp
+51267-01-115,Bekaa,Zahle,33.7626,35.9115,IS- Informal Settlement,Active,7,42,3,3,139,281,176,Camp
+51267-01-116,Bekaa,Zahle,33.7749,35.9371,IS- Informal Settlement,Less than 4,1,6,1,1,163,299,215,Camp
+51267-01-117,Bekaa,Zahle,33.7741,35.9387,IS- Informal Settlement,Active,5,12,1,1,294,166,218,Camp
+51267-01-119,Bekaa,Zahle,33.7901,35.9128,IS- Informal Settlement,Less than 4,1,5,1,1,83,260,247,Camp
+51267-01-122,Bekaa,Zahle,33.78364,35.93753,IS- Informal Settlement,Less than 4,3,8,1,1,53,148,93,Camp
+51267-01-123,Bekaa,Zahle,33.77345,35.92434,IS- Informal Settlement,Less than 4,1,4,1,1,70,147,103,Camp
+51267-01-124,Bekaa,Zahle,33.77725,35.91725,IS- Informal Settlement,Less than 4,1,5,1,1,224,176,139,Camp
+51267-01-125,Bekaa,Zahle,33.77034,35.91346,IS- Informal Settlement,Less than 4,1,10,1,1,47,154,267,Camp
+51267-01-126,Bekaa,Zahle,33.76907,35.90712,IS- Informal Settlement,Less than 4,1,10,1,1,98,161,72,Camp
+51267-01-127,Bekaa,Zahle,33.76685,35.90955,IS- Informal Settlement,Less than 4,1,0,0,0,103,258,175,Camp
+51267-01-131,Bekaa,Zahle,33.77085,35.90979,IS- Informal Settlement,Active,39,232,33,33,110,108,191,Camp
+51267-01-132,Bekaa,Zahle,33.78,35.93309,IS- Informal Settlement,Less than 4,1,8,1,1,189,162,29,Camp
+51267-01-133,Bekaa,Zahle,33.79868,35.94368,IS- Informal Settlement,Active,11,76,7,7,117,119,253,Camp
+51267-01-134,Bekaa,Zahle,33.79443,35.9491,IS- Informal Settlement,Less than 4,3,13,3,3,157,205,223,Camp
+51267-01-135,Bekaa,Zahle,33.79639,35.92224,IS- Informal Settlement,Less than 4,2,12,2,2,188,56,269,Camp
+51267-01-136,Bekaa,Zahle,33.76524,35.90843,IS- Informal Settlement,Less than 4,1,7,1,1,45,130,237,Camp
+51267-01-137,Bekaa,Zahle,33.76651,35.90768,IS- Informal Settlement,Less than 4,1,1,1,1,167,161,83,Camp
+51267-01-138,Bekaa,Zahle,33.76109,35.91117,IS- Informal Settlement,Less than 4,3,21,2,2,117,98,147,Camp
+51267-01-139,Bekaa,Zahle,33.76131,35.91106,IS- Informal Settlement,Less than 4,1,14,1,1,164,236,32,Camp
+51267-01-140,Bekaa,Zahle,33.77086,35.9189,IS- Informal Settlement,Less than 4,3,17,3,3,240,260,126,Camp
+51267-01-141,Bekaa,Zahle,33.79983,35.92974,IS- Informal Settlement,Active,5,45,0,0,159,210,162,Camp
+51274-01-001,Bekaa,Zahle,33.7562,35.8069,IS- Informal Settlement,Active,4,22,4,4,50,105,282,Camp
+51274-01-002,Bekaa,Zahle,33.7518,35.8045,IS- Informal Settlement,Less than 4,3,16,1,1,136,240,40,Camp
+51274-01-003,Bekaa,Zahle,33.7519,35.8046,IS- Informal Settlement,Less than 4,1,6,1,1,147,213,241,Camp
+51274-01-004,Bekaa,Zahle,33.7552,35.8045,IS- Informal Settlement,Less than 4,1,9,1,1,41,48,99,Camp
+51274-01-006,Bekaa,Zahle,33.7585,35.8049,IS- Informal Settlement,Less than 4,2,9,1,1,243,122,135,Camp
+51281-01-001,Bekaa,Zahle,33.7546,35.9094,IS- Informal Settlement,Active,16,118,9,9,153,288,238,Camp
+51281-01-002,Bekaa,Zahle,33.7482,35.9114,IS- Informal Settlement,Active,36,191,12,12,88,230,261,Camp
+51281-01-003,Bekaa,Zahle,33.7479,35.9093,IS- Informal Settlement,Active,62,430,52,52,42,40,264,Camp
+51281-01-005,Bekaa,Zahle,33.7494,35.9098,IS- Informal Settlement,Active,58,411,52,52,299,176,291,Camp
+51281-01-006,Bekaa,Zahle,33.7494,35.9093,IS- Informal Settlement,Active,8,68,7,7,51,105,82,Camp
+51281-01-007,Bekaa,Zahle,33.7487,35.9088,IS- Informal Settlement,Active,36,250,23,23,294,54,96,Camp
+51281-01-009,Bekaa,Zahle,33.7533,35.9069,IS- Informal Settlement,Active,7,51,3,3,197,276,174,Camp
+51281-01-010,Bekaa,Zahle,33.7536,35.9051,IS- Informal Settlement,Active,8,46,5,5,102,297,181,Camp
+51281-01-011,Bekaa,Zahle,33.7524,35.9091,IS- Informal Settlement,Active,29,127,15,15,262,191,212,Camp
+51281-01-012,Bekaa,Zahle,33.7541,35.903,IS- Informal Settlement,Active,11,69,6,6,294,210,190,Camp
+51281-01-013,Bekaa,Zahle,33.7511,35.9081,IS- Informal Settlement,Active,14,88,9,9,150,152,226,Camp
+51281-01-014,Bekaa,Zahle,33.7543,35.9115,IS- Informal Settlement,Active,30,105,8,8,269,230,294,Camp
+51281-01-015,Bekaa,Zahle,33.7529,35.9141,IS- Informal Settlement,Active,51,284,52,52,41,285,20,Camp
+51281-01-016,Bekaa,Zahle,33.7316,35.9226,IS- Informal Settlement,Active,15,65,4,4,297,234,39,Camp
+51281-01-017,Bekaa,Zahle,33.7348,35.9205,IS- Informal Settlement,Active,21,117,19,19,72,101,68,Camp
+51281-01-018,Bekaa,Zahle,33.7295,35.9259,IS- Informal Settlement,Active,7,40,7,7,40,226,259,Camp
+51281-01-019,Bekaa,Zahle,33.7233,35.9221,IS- Informal Settlement,Active,10,63,10,10,174,161,170,Camp
+51281-01-020,Bekaa,Zahle,33.7392,35.9126,IS- Informal Settlement,Active,16,89,16,16,291,27,61,Camp
+51281-01-021,Bekaa,Zahle,33.7536,35.9083,IS- Informal Settlement,Active,4,39,2,2,176,36,227,Camp
+51281-01-022,Bekaa,Zahle,33.7546,35.9045,IS- Informal Settlement,Active,14,59,4,4,237,45,177,Camp
+51281-01-023,Bekaa,Zahle,33.7557,35.9032,IS- Informal Settlement,Active,10,48,0,0,75,14,144,Camp
+51281-01-025,Bekaa,Zahle,33.753,35.907,IS- Informal Settlement,Active,7,35,2,2,33,269,164,Camp
+51281-01-027,Bekaa,Zahle,33.7444,35.9167,IS- Informal Settlement,Active,15,97,10,10,153,184,157,Camp
+51281-01-028,Bekaa,Zahle,33.7497,35.9017,IS- Informal Settlement,Active,7,48,4,4,140,139,72,Camp
+51281-01-029,Bekaa,Zahle,33.7566,35.9028,IS- Informal Settlement,Active,14,94,3,3,184,296,71,Camp
+51281-01-030,Bekaa,Zahle,33.7487,35.9056,IS- Informal Settlement,Less than 4,3,21,3,3,41,35,155,Camp
+51281-01-031,Bekaa,Zahle,33.7544,35.9098,IS- Informal Settlement,Active,6,33,3,3,206,115,31,Camp
+51281-01-032,Bekaa,Zahle,33.753,35.9083,IS- Informal Settlement,Less than 4,3,11,0,0,140,190,95,Camp
+51281-01-033,Bekaa,Zahle,33.7498,35.909,IS- Informal Settlement,Active,37,237,20,20,291,143,234,Camp
+51281-01-034,Bekaa,Zahle,33.7474,35.9086,IS- Informal Settlement,Active,13,76,8,8,182,21,251,Camp
+51281-01-035,Bekaa,Zahle,33.7512,35.9068,IS- Informal Settlement,Less than 4,3,17,1,1,15,143,264,Camp
+51281-01-036,Bekaa,Zahle,33.7523,35.9104,IS- Informal Settlement,Active,41,198,21,21,183,182,78,Camp
+51281-01-037,Bekaa,Zahle,33.7553,35.9085,IS- Informal Settlement,Active,51,285,10,10,44,240,156,Camp
+51281-01-038,Bekaa,Zahle,33.756,35.9074,IS- Informal Settlement,Active,30,161,12,12,82,17,258,Camp
+51281-01-039,Bekaa,Zahle,33.7565,35.902,IS- Informal Settlement,Active,10,64,7,7,81,276,67,Camp
+51281-01-040,Bekaa,Zahle,33.7555,35.902,IS- Informal Settlement,Less than 4,2,23,2,2,26,252,110,Camp
+51281-01-041,Bekaa,Zahle,33.7303,35.9436,IS- Informal Settlement,Less than 4,1,6,1,1,225,125,143,Camp
+51281-01-042,Bekaa,Zahle,33.7368,35.9284,IS- Informal Settlement,Active,15,75,4,4,181,194,134,Camp
+51281-01-043,Bekaa,Zahle,33.7448,35.9139,IS- Informal Settlement,Less than 4,2,14,1,1,105,257,109,Camp
+51281-01-044,Bekaa,Zahle,33.7377,35.9179,IS- Informal Settlement,Less than 4,1,8,1,1,219,105,255,Camp
+51281-01-045,Bekaa,Zahle,33.7388,35.9209,IS- Informal Settlement,Active,19,89,16,16,122,173,255,Camp
+51281-01-047,Bekaa,Zahle,33.7392,35.911,IS- Informal Settlement,Less than 4,2,15,1,1,275,24,249,Camp
+51281-01-048,Bekaa,Zahle,33.7471,35.9086,IS- Informal Settlement,Active,14,96,13,13,245,74,133,Camp
+51281-01-049,Bekaa,Zahle,33.7486,35.911,IS- Informal Settlement,Active,20,139,8,8,255,228,14,Camp
+51281-01-050,Bekaa,Zahle,33.7265,35.924,IS- Informal Settlement,Active,15,65,16,16,251,153,244,Camp
+51281-01-052,Bekaa,Zahle,33.7556,35.9047,IS- Informal Settlement,Less than 4,1,9,1,1,129,282,254,Camp
+51281-01-053,Bekaa,Zahle,33.7537,35.9066,IS- Informal Settlement,Less than 4,1,5,1,1,14,146,86,Camp
+51281-01-054,Bekaa,Zahle,33.746,35.9092,IS- Informal Settlement,Less than 4,2,6,2,2,233,300,120,Camp
+51281-01-055,Bekaa,Zahle,33.7447,35.9091,IS- Informal Settlement,Less than 4,1,4,1,1,43,161,262,Camp
+51281-01-056,Bekaa,Zahle,33.7415,35.9116,IS- Informal Settlement,Active,8,54,4,4,140,58,16,Camp
+51281-01-059,Bekaa,Zahle,33.7538,35.9089,IS- Informal Settlement,Active,4,20,4,4,72,21,270,Camp
+51281-01-060,Bekaa,Zahle,33.7231,35.922,IS- Informal Settlement,Less than 4,1,4,1,1,276,99,294,Camp
+51281-01-062,Bekaa,Zahle,33.741,35.9174,IS- Informal Settlement,Less than 4,1,6,1,1,10,154,85,Camp
+51281-01-063,Bekaa,Zahle,33.7408,35.9182,IS- Informal Settlement,Active,5,35,2,2,28,155,14,Camp
+51281-01-064,Bekaa,Zahle,33.7431,35.9132,IS- Informal Settlement,Less than 4,1,6,1,1,145,99,222,Camp
+51281-01-065,Bekaa,Zahle,33.7557,35.9029,IS- Informal Settlement,Active,12,62,8,8,188,56,154,Camp
+51281-01-066,Bekaa,Zahle,33.73917,35.9162,IS- Informal Settlement,Less than 4,2,14,2,2,102,195,36,Camp
+51281-01-067,Bekaa,Zahle,33.75089,35.91047,IS- Informal Settlement,Less than 4,2,14,1,1,101,25,251,Camp
+51281-01-068,Bekaa,Zahle,33.74955,35.90937,IS- Informal Settlement,Less than 4,3,10,3,3,200,69,220,Camp
+51287-01-001,Bekaa,Zahle,33.763,35.8574,IS- Informal Settlement,Less than 4,2,18,2,2,53,152,136,Camp
+51311-01-001,Bekaa,Zahle,33.8501,36.0248,IS- Informal Settlement,Active,11,42,10,10,224,98,226,Camp
+51311-01-004,Bekaa,Zahle,33.846,36.0085,IS- Informal Settlement,Less than 4,3,19,3,3,180,299,89,Camp
+51311-01-005,Bekaa,Zahle,33.8461,36.0254,IS- Informal Settlement,Active,23,146,18,18,211,279,11,Camp
+51311-01-006,Bekaa,Zahle,33.8459,36.0245,IS- Informal Settlement,Active,6,23,3,3,231,227,212,Camp
+51311-01-007,Bekaa,Zahle,33.8511,36.0232,IS- Informal Settlement,Active,10,45,10,10,207,126,293,Camp
+51311-01-008,Bekaa,Zahle,33.849,36.0234,IS- Informal Settlement,Less than 4,2,13,2,2,148,44,89,Camp
+51311-01-009,Bekaa,Zahle,33.8524,36.0239,IS- Informal Settlement,Less than 4,1,6,1,1,11,122,178,Camp
+51311-01-011,Bekaa,Zahle,33.8561,36.0137,IS- Informal Settlement,Less than 4,2,11,2,2,152,50,287,Camp
+51311-01-012,Bekaa,Zahle,33.84557,36.02551,IS- Informal Settlement,Active,8,48,8,8,108,93,212,Camp
+51311-01-013,Bekaa,Zahle,33.85798,36.01823,IS- Informal Settlement,Active,5,20,5,5,152,59,287,Camp
+51317-01-003,Bekaa,Zahle,33.8465,35.9934,IS- Informal Settlement,Less than 4,2,18,2,2,202,154,56,Camp
+51317-01-004,Bekaa,Zahle,33.8477,35.9977,IS- Informal Settlement,Less than 4,1,5,1,1,16,265,69,Camp
+51317-01-005,Bekaa,Zahle,33.8409,35.9876,IS- Informal Settlement,Active,6,48,4,4,16,84,124,Camp
+51317-01-006,Bekaa,Zahle,33.8416,35.992,IS- Informal Settlement,Less than 4,1,7,1,1,251,162,16,Camp
+51317-01-007,Bekaa,Zahle,33.8474,35.9943,IS- Informal Settlement,Less than 4,3,17,2,2,85,198,179,Camp
+51317-01-008,Bekaa,Zahle,33.846,35.9929,IS- Informal Settlement,Active,6,23,4,4,123,258,54,Camp
+51317-01-009,Bekaa,Zahle,33.8477,35.9963,IS- Informal Settlement,Less than 4,1,8,1,1,132,126,283,Camp
+51317-01-010,Bekaa,Zahle,33.8358,35.9793,IS- Informal Settlement,Less than 4,3,22,2,2,62,67,151,Camp
+51317-01-012,Bekaa,Zahle,33.8448,36.0007,IS- Informal Settlement,Less than 4,3,6,1,1,133,56,71,Camp
+51317-01-013,Bekaa,Zahle,33.8436,35.9985,IS- Informal Settlement,Active,8,31,7,7,199,145,245,Camp
+51317-01-014,Bekaa,Zahle,33.8408,35.983,IS- Informal Settlement,Less than 4,1,4,0,0,61,142,284,Camp
+51317-01-015,Bekaa,Zahle,33.8373,35.9786,IS- Informal Settlement,Less than 4,1,4,0,0,295,191,13,Camp
+51317-01-017,Bekaa,Zahle,33.84439,35.994,IS- Informal Settlement,Less than 4,1,6,1,1,55,136,282,Camp
+51317-01-018,Bekaa,Zahle,33.84662,35.99469,IS- Informal Settlement,Less than 4,1,6,1,1,299,86,230,Camp
+51317-01-019,Bekaa,Zahle,33.83863,35.99228,IS- Informal Settlement,Less than 4,1,10,1,1,176,29,270,Camp
+51323-01-002,Bekaa,Zahle,33.8677,36.0179,IS- Informal Settlement,Less than 4,2,18,2,2,50,175,275,Camp
+51323-01-003,Bekaa,Zahle,33.8707,36.0147,IS- Informal Settlement,Less than 4,1,5,1,1,75,250,267,Camp
+51323-01-007,Bekaa,Zahle,33.8651,36.0055,IS- Informal Settlement,Less than 4,3,12,3,3,71,193,246,Camp
+51323-01-009,Bekaa,Zahle,33.8677,36.0179,IS- Informal Settlement,Active,5,36,2,2,154,158,233,Camp
+51323-01-011,Bekaa,Zahle,33.8575,36.0207,IS- Informal Settlement,Less than 4,2,7,1,1,69,148,294,Camp
+51323-01-012,Bekaa,Zahle,33.8653,36.0354,IS- Informal Settlement,Active,28,195,20,20,261,288,139,Camp
+51323-01-013,Bekaa,Zahle,33.8662,36.0222,IS- Informal Settlement,Active,4,31,3,3,116,155,104,Camp
+51323-01-014,Bekaa,Zahle,33.86728,36.0237,IS- Informal Settlement,Less than 4,1,6,1,1,168,122,153,Camp
+51329-01-001,Bekaa,Zahle,33.8715,36.0172,IS- Informal Settlement,Active,12,65,9,9,259,166,274,Camp
+51329-01-002,Bekaa,Zahle,33.8793,36.0222,IS- Informal Settlement,Active,19,115,15,15,43,59,201,Camp
+51329-01-003,Bekaa,Zahle,33.874,36.0147,IS- Informal Settlement,Active,12,140,9,9,89,244,68,Camp
+51329-01-006,Bekaa,Zahle,33.8752,36.0164,IS- Informal Settlement,Less than 4,2,12,2,2,166,224,111,Camp
+51329-01-007,Bekaa,Zahle,33.8725,36.0145,IS- Informal Settlement,Active,7,55,7,7,140,69,133,Camp
+51329-01-008,Bekaa,Zahle,33.8766,36.0186,IS- Informal Settlement,Active,11,70,7,7,148,58,279,Camp
+51329-01-009,Bekaa,Zahle,33.8814,36.0305,IS- Informal Settlement,Active,45,330,28,28,283,256,44,Camp
+51329-01-010,Bekaa,Zahle,33.8801,36.0302,IS- Informal Settlement,Active,23,165,23,23,231,88,209,Camp
+51329-01-011,Bekaa,Zahle,33.8718,36.0164,IS- Informal Settlement,Less than 4,3,17,2,2,50,84,12,Camp
+51329-01-012,Bekaa,Zahle,33.8727,36.0135,IS- Informal Settlement,Less than 4,1,8,1,1,113,59,173,Camp
+51341-01-001,Bekaa,Zahle,33.8298,36.0226,IS- Informal Settlement,Active,8,49,8,8,52,27,252,Camp
+51341-01-003,Bekaa,Zahle,33.8339,36.0237,IS- Informal Settlement,Active,6,28,4,4,38,155,52,Camp
+51341-01-004,Bekaa,Zahle,33.8431,36.0056,IS- Informal Settlement,Less than 4,1,3,1,1,162,53,138,Camp
+51341-01-006,Bekaa,Zahle,33.8439,36.0064,IS- Informal Settlement,Less than 4,3,13,3,3,190,15,20,Camp
+51341-01-007,Bekaa,Zahle,33.8304,36.0186,IS- Informal Settlement,Less than 4,1,0,1,1,81,71,73,Camp
+51347-01-001,Bekaa,Zahle,33.8276,36.0497,IS- Informal Settlement,Less than 4,1,8,1,1,32,281,65,Camp
+51347-01-002,Bekaa,Zahle,33.8295,36.0532,IS- Informal Settlement,Less than 4,1,8,1,1,159,264,139,Camp
+51347-01-005,Bekaa,Zahle,33.8279,36.036,IS- Informal Settlement,Active,4,21,3,3,158,95,102,Camp
+51353-01-001,Bekaa,Zahle,33.8103,36.0262,IS- Informal Settlement,Less than 4,1,9,1,1,237,237,259,Camp
+51353-01-003,Bekaa,Zahle,33.8017,36.01738,IS- Informal Settlement,Less than 4,1,0,1,1,36,187,63,Camp
+51353-01-004,Bekaa,Zahle,33.80906,36.02589,IS- Informal Settlement,Less than 4,2,12,1,1,79,161,48,Camp
+51354-01-001,Bekaa,Zahle,33.8613,36.0554,IS- Informal Settlement,Active,63,361,48,48,102,149,144,Camp
+51354-01-002,Bekaa,Zahle,33.8608,36.0516,IS- Informal Settlement,Active,14,62,7,7,73,170,221,Camp
+51354-01-003,Bekaa,Zahle,33.8611,36.0531,IS- Informal Settlement,Active,13,92,12,12,242,29,13,Camp
+51354-01-004,Bekaa,Zahle,33.8616,36.0494,IS- Informal Settlement,Less than 4,3,12,1,1,76,117,208,Camp
+51354-01-005,Bekaa,Zahle,33.8601,36.0523,IS- Informal Settlement,Active,15,91,0,0,279,208,13,Camp
+51359-01-001,Bekaa,Zahle,33.8379,36.0409,IS- Informal Settlement,Active,15,55,15,15,148,201,137,Camp
+51359-01-002,Bekaa,Zahle,33.8391,36.0395,IS- Informal Settlement,Less than 4,2,31,2,2,201,191,187,Camp
+51359-01-004,Bekaa,Zahle,33.8421,36.0232,IS- Informal Settlement,Active,50,330,50,50,64,34,102,Camp
+51359-01-005,Bekaa,Zahle,33.8408,36.0233,IS- Informal Settlement,Active,31,170,31,31,100,75,178,Camp
+51359-01-006,Bekaa,Zahle,33.8353,36.0292,IS- Informal Settlement,Active,14,80,14,14,168,86,164,Camp
+51359-01-007,Bekaa,Zahle,33.8365,36.0276,IS- Informal Settlement,Active,16,81,10,10,90,249,300,Camp
+51359-01-008,Bekaa,Zahle,33.8394,36.0366,IS- Informal Settlement,Active,4,24,8,8,197,217,96,Camp
+51359-01-009,Bekaa,Zahle,33.8339,36.0277,IS- Informal Settlement,Active,9,41,5,5,20,169,58,Camp
+51359-01-010,Bekaa,Zahle,33.8403,36.0395,IS- Informal Settlement,Active,14,50,8,8,48,205,289,Camp
+51359-01-012,Bekaa,Zahle,33.8392,36.0344,IS- Informal Settlement,Active,40,195,32,32,87,273,24,Camp
+51359-01-013,Bekaa,Zahle,33.8395,36.0393,IS- Informal Settlement,Active,5,15,4,4,297,164,109,Camp
+51359-01-014,Bekaa,Zahle,33.8412,36.039,IS- Informal Settlement,Active,6,35,6,6,82,249,262,Camp
+51359-01-016,Bekaa,Zahle,33.8373,36.0383,IS- Informal Settlement,Less than 4,2,13,1,1,296,292,208,Camp
+51359-01-017,Bekaa,Zahle,33.8392,36.0409,IS- Informal Settlement,Less than 4,2,13,2,2,179,165,275,Camp
+51359-01-018,Bekaa,Zahle,33.8398,36.0409,IS- Informal Settlement,Less than 4,2,8,2,2,172,102,247,Camp
+51359-01-020,Bekaa,Zahle,33.8373,36.04,IS- Informal Settlement,Less than 4,1,9,1,1,196,239,260,Camp
+51359-01-021,Bekaa,Zahle,33.83591,36.03888,IS- Informal Settlement,Less than 4,1,4,1,1,251,129,170,Camp
+51359-01-022,Bekaa,Zahle,33.83854,36.03148,IS- Informal Settlement,Less than 4,2,9,1,1,122,172,64,Camp
+51359-01-023,Bekaa,Zahle,33.84151,36.02337,IS- Informal Settlement,Active,9,40,9,9,188,251,134,Camp
+51359-01-024,Bekaa,Zahle,33.83701,36.0312,IS- Informal Settlement,Less than 4,2,9,1,1,48,234,298,Camp
+51365-01-001,Bekaa,Zahle,33.8171,35.9884,IS- Informal Settlement,Active,7,47,4,8,267,150,146,Camp
+51365-01-002,Bekaa,Zahle,33.8141,35.9931,IS- Informal Settlement,Active,7,39,4,10,193,220,22,Camp
+51365-01-003,Bekaa,Zahle,33.8154,35.9888,IS- Informal Settlement,Less than 4,1,5,1,1,278,198,130,Camp
+51365-01-006,Bekaa,Zahle,33.8242,35.9967,IS- Informal Settlement,Active,47,318,58,61,225,222,123,Camp
+51365-01-007,Bekaa,Zahle,33.8245,35.985,IS- Informal Settlement,Active,14,87,14,14,78,278,34,Camp
+51365-01-008,Bekaa,Zahle,33.7909,35.9698,IS- Informal Settlement,Active,25,435,16,25,119,130,181,Camp
+51365-01-009,Bekaa,Zahle,33.7933,35.9713,IS- Informal Settlement,Less than 4,3,24,3,3,222,11,245,Camp
+51365-01-010,Bekaa,Zahle,33.7892,35.9678,IS- Informal Settlement,Active,16,79,14,16,68,146,226,Camp
+51365-01-011,Bekaa,Zahle,33.8229,35.9993,IS- Informal Settlement,Active,52,320,48,60,284,149,76,Camp
+51365-01-012,Bekaa,Zahle,33.8181,35.9906,IS- Informal Settlement,Active,16,73,9,13,107,224,113,Camp
+51365-01-013,Bekaa,Zahle,33.8195,35.9715,IS- Informal Settlement,Active,6,27,4,4,249,57,83,Camp
+51365-01-014,Bekaa,Zahle,33.816,35.973,IS- Informal Settlement,Active,17,98,10,10,150,39,83,Camp
+51365-01-015,Bekaa,Zahle,33.8274,35.9687,IS- Informal Settlement,Active,5,22,4,6,90,282,35,Camp
+51365-01-016,Bekaa,Zahle,33.8162,35.9876,IS- Informal Settlement,Active,6,47,2,6,26,181,18,Camp
+51365-01-017,Bekaa,Zahle,33.8176,35.9907,IS- Informal Settlement,Active,9,49,3,4,251,167,254,Camp
+51365-01-019,Bekaa,Zahle,33.7925,35.9749,IS- Informal Settlement,Active,8,44,8,8,99,159,51,Camp
+51365-01-021,Bekaa,Zahle,33.8127,36.002,IS- Informal Settlement,Active,6,26,3,2,54,16,212,Camp
+51365-01-022,Bekaa,Zahle,33.8229,35.9732,IS- Informal Settlement,Less than 4,2,14,2,2,207,211,37,Camp
+51365-01-023,Bekaa,Zahle,33.803,35.9844,IS- Informal Settlement,Less than 4,1,6,1,0,100,259,43,Camp
+51365-01-024,Bekaa,Zahle,33.8158,35.9675,IS- Informal Settlement,Active,5,37,3,5,112,20,202,Camp
+51365-01-026,Bekaa,Zahle,33.7917,35.9713,IS- Informal Settlement,Active,10,57,7,10,171,272,14,Camp
+51365-01-027,Bekaa,Zahle,33.7897,35.9677,IS- Informal Settlement,Active,8,54,2,8,268,198,118,Camp
+51365-01-028,Bekaa,Zahle,33.7971,35.9648,IS- Informal Settlement,Active,42,262,32,35,101,231,125,Camp
+51365-01-029,Bekaa,Zahle,33.8208,35.9914,IS- Informal Settlement,Less than 4,2,18,2,2,196,51,220,Camp
+51365-01-030,Bekaa,Zahle,33.8144,35.9712,IS- Informal Settlement,Active,4,27,3,1,226,244,43,Camp
+51365-01-031,Bekaa,Zahle,33.7972,35.974,IS- Informal Settlement,Active,29,156,22,18,106,160,261,Camp
+51365-01-032,Bekaa,Zahle,33.7997,35.9679,IS- Informal Settlement,Active,98,596,86,95,154,69,262,Camp
+51365-01-033,Bekaa,Zahle,33.822,35.9726,IS- Informal Settlement,Active,4,24,4,4,113,116,242,Camp
+51365-01-034,Bekaa,Zahle,33.8159,35.996,IS- Informal Settlement,Active,5,28,5,5,177,44,256,Camp
+51365-01-035,Bekaa,Zahle,33.7906,35.9694,IS- Informal Settlement,Less than 4,1,12,1,12,19,290,219,Camp
+51365-01-036,Bekaa,Zahle,33.7925,35.9714,IS- Informal Settlement,Less than 4,1,2,0,1,133,239,240,Camp
+51365-01-038,Bekaa,Zahle,33.7929,35.9718,IS- Informal Settlement,Less than 4,2,12,0,1,203,185,22,Camp
+51365-01-039,Bekaa,Zahle,33.7948,35.9786,IS- Informal Settlement,Active,9,60,8,8,107,155,134,Camp
+51365-01-040,Bekaa,Zahle,33.7922,35.9751,IS- Informal Settlement,Active,7,33,5,5,83,208,124,Camp
+51365-01-041,Bekaa,Zahle,33.7924,35.9749,IS- Informal Settlement,Active,5,19,5,0,257,197,33,Camp
+51365-01-042,Bekaa,Zahle,33.7925,35.9751,IS- Informal Settlement,Active,15,80,15,15,116,156,86,Camp
+51365-01-043,Bekaa,Zahle,33.7939,35.9714,IS- Informal Settlement,Less than 4,2,12,2,2,21,288,155,Camp
+51365-01-044,Bekaa,Zahle,33.7945,35.9716,IS- Informal Settlement,Less than 4,2,10,0,1,258,207,60,Camp
+51365-01-045,Bekaa,Zahle,33.7937,35.9722,IS- Informal Settlement,Less than 4,2,12,2,3,71,264,205,Camp
+51365-01-046,Bekaa,Zahle,33.7943,35.9811,IS- Informal Settlement,Active,4,25,4,6,159,295,39,Camp
+51365-01-047,Bekaa,Zahle,33.8178,35.9763,IS- Informal Settlement,Active,5,26,6,5,109,40,178,Camp
+51365-01-048,Bekaa,Zahle,33.8153,35.9726,IS- Informal Settlement,Active,8,38,5,8,289,153,40,Camp
+51365-01-049,Bekaa,Zahle,33.7955,35.9728,IS- Informal Settlement,Active,12,93,9,10,91,196,226,Camp
+51365-01-053,Bekaa,Zahle,33.7971,35.9831,IS- Informal Settlement,Active,4,22,3,3,184,80,268,Camp
+51365-01-054,Bekaa,Zahle,33.7959,35.9723,IS- Informal Settlement,Less than 4,1,10,1,1,231,229,111,Camp
+51365-01-055,Bekaa,Zahle,33.7979,35.981,IS- Informal Settlement,Less than 4,1,8,0,0,215,38,103,Camp
+51365-01-056,Bekaa,Zahle,33.7974,35.9812,IS- Informal Settlement,Less than 4,1,7,0,0,188,166,29,Camp
+51365-01-057,Bekaa,Zahle,33.7949,35.9717,IS- Informal Settlement,Less than 4,1,10,1,2,74,78,81,Camp
+51365-01-059,Bekaa,Zahle,33.8135,35.9923,IS- Informal Settlement,Less than 4,1,0,0,0,300,161,186,Camp
+51365-01-060,Bekaa,Zahle,33.8218,35.9744,IS- Informal Settlement,Less than 4,1,2,1,1,193,30,189,Camp
+51365-01-061,Bekaa,Zahle,33.8275,35.9681,IS- Informal Settlement,Less than 4,2,14,2,2,251,240,257,Camp
+51365-01-062,Bekaa,Zahle,33.8299,35.978,IS- Informal Settlement,Less than 4,1,11,1,1,102,82,205,Camp
+51365-01-063,Bekaa,Zahle,33.8381,35.9855,IS- Informal Settlement,Less than 4,3,16,2,3,181,250,63,Camp
+51365-01-064,Bekaa,Zahle,33.8166,35.9836,IS- Informal Settlement,Less than 4,2,13,1,1,11,270,192,Camp
+51365-01-065,Bekaa,Zahle,33.8342,35.9845,IS- Informal Settlement,Less than 4,1,4,1,1,45,287,15,Camp
+51365-01-067,Bekaa,Zahle,33.8242,35.9719,IS- Informal Settlement,Less than 4,3,23,3,3,58,230,52,Camp
+51365-01-068,Bekaa,Zahle,33.8143,35.9826,IS- Informal Settlement,Active,6,40,4,5,227,99,33,Camp
+51365-01-071,Bekaa,Zahle,33.7972,35.9799,IS- Informal Settlement,Less than 4,2,11,0,0,247,62,228,Camp
+51365-01-072,Bekaa,Zahle,33.8133,35.9866,IS- Informal Settlement,Less than 4,2,13,2,3,233,207,135,Camp
+51365-01-073,Bekaa,Zahle,33.8137,35.9809,IS- Informal Settlement,Less than 4,2,11,1,1,247,181,268,Camp
+51365-01-074,Bekaa,Zahle,33.8235,35.9846,IS- Informal Settlement,Less than 4,1,5,1,1,186,77,35,Camp
+51365-01-075,Bekaa,Zahle,33.8249,35.9828,IS- Informal Settlement,Less than 4,1,8,1,0,217,231,95,Camp
+51365-01-076,Bekaa,Zahle,33.8217,35.981,IS- Informal Settlement,Less than 4,2,9,1,1,212,82,60,Camp
+51365-01-077,Bekaa,Zahle,33.8194,35.9882,IS- Informal Settlement,Less than 4,1,5,1,1,170,253,188,Camp
+51365-01-078,Bekaa,Zahle,33.8311,35.9942,IS- Informal Settlement,Less than 4,2,20,1,2,221,295,76,Camp
+51365-01-080,Bekaa,Zahle,33.8275,35.9889,IS- Informal Settlement,Less than 4,2,13,2,2,42,69,49,Camp
+51365-01-082,Bekaa,Zahle,33.8115,35.9854,IS- Informal Settlement,Less than 4,1,7,2,1,18,243,196,Camp
+51365-01-084,Bekaa,Zahle,33.8095,35.9972,IS- Informal Settlement,Active,10,60,7,8,90,68,85,Camp
+51365-01-086,Bekaa,Zahle,33.8085,35.9944,IS- Informal Settlement,Less than 4,1,6,1,1,28,91,266,Camp
+51365-01-087,Bekaa,Zahle,33.8201,35.9951,IS- Informal Settlement,Less than 4,2,12,2,2,248,260,100,Camp
+51365-01-088,Bekaa,Zahle,33.8202,35.9882,IS- Informal Settlement,Less than 4,2,8,1,2,85,22,180,Camp
+51365-01-089,Bekaa,Zahle,33.7882,35.9673,IS- Informal Settlement,Less than 4,2,12,1,1,44,47,205,Camp
+51365-01-090,Bekaa,Zahle,33.7968,35.9644,IS- Informal Settlement,Less than 4,2,11,0,2,245,282,184,Camp
+51365-01-092,Bekaa,Zahle,33.8275,35.98014,IS- Informal Settlement,Less than 4,1,7,1,1,57,215,20,Camp
+51365-01-093,Bekaa,Zahle,33.79648,35.96442,IS- Informal Settlement,Active,7,19,2,2,231,276,182,Camp
+51365-01-094,Bekaa,Zahle,33.79605,35.97834,IS- Informal Settlement,Active,6,27,1,4,272,22,225,Camp
+51365-01-095,Bekaa,Zahle,33.78972,35.9692,IS- Informal Settlement,Less than 4,3,18,2,1,289,44,288,Camp
+51365-01-096,Bekaa,Zahle,33.80064,35.96358,IS- Informal Settlement,Less than 4,3,27,3,0,23,217,111,Camp
+51365-01-097,Bekaa,Zahle,33.82948,35.99708,IS- Informal Settlement,Less than 4,1,8,1,1,202,135,139,Camp
+51365-01-098,Bekaa,Zahle,33.81472,35.9681,IS- Informal Settlement,Active,9,61,8,7,167,256,74,Camp
+51365-01-099,Bekaa,Zahle,33.83294,35.99713,IS- Informal Settlement,Less than 4,2,13,1,1,208,80,112,Camp
+51365-01-100,Bekaa,Zahle,33.80683,35.99918,IS- Informal Settlement,Less than 4,1,9,1,1,132,226,16,Camp
+51365-01-101,Bekaa,Zahle,33.80653,35.9952,IS- Informal Settlement,Less than 4,1,4,1,0,16,244,171,Camp
+51365-01-102,Bekaa,Zahle,33.79763,35.9826,IS- Informal Settlement,Less than 4,2,13,1,0,242,174,279,Camp
+51365-01-103,Bekaa,Zahle,33.79858,35.98062,IS- Informal Settlement,Less than 4,2,10,0,0,257,55,40,Camp
+51365-01-104,Bekaa,Zahle,33.79845,35.96473,IS- Informal Settlement,Active,29,163,17,19,151,99,92,Camp
+51365-01-105,Bekaa,Zahle,33.8283,35.99313,IS- Informal Settlement,Active,20,82,18,21,113,27,135,Camp
+51371-01-001,Bekaa,Zahle,33.8532,36.0326,IS- Informal Settlement,Active,16,60,14,14,61,265,146,Camp
+51371-01-003,Bekaa,Zahle,33.8538,36.04,IS- Informal Settlement,Active,22,100,20,20,82,47,89,Camp
+51371-01-004,Bekaa,Zahle,33.8535,36.0366,IS- Informal Settlement,Less than 4,3,18,3,3,268,245,238,Camp
+51371-01-005,Bekaa,Zahle,33.8523,36.0392,IS- Informal Settlement,Active,9,42,9,9,54,42,61,Camp
+51371-01-006,Bekaa,Zahle,33.8537,36.0352,IS- Informal Settlement,Active,4,20,4,4,94,141,136,Camp
+51371-01-007,Bekaa,Zahle,33.8516,36.0409,IS- Informal Settlement,Less than 4,1,6,1,1,260,207,194,Camp
+51371-01-008,Bekaa,Zahle,33.8527,36.043,IS- Informal Settlement,Active,5,25,6,6,147,216,133,Camp
+51371-01-009,Bekaa,Zahle,33.851,36.04,IS- Informal Settlement,Active,4,13,3,3,201,288,246,Camp
+51371-01-010,Bekaa,Zahle,33.8516,36.0366,IS- Informal Settlement,Less than 4,1,6,1,1,65,66,101,Camp
+51371-01-011,Bekaa,Zahle,33.8514,36.0351,IS- Informal Settlement,Less than 4,2,6,1,1,114,173,33,Camp
+51371-01-013,Bekaa,Zahle,33.8532,36.0374,IS- Informal Settlement,Less than 4,1,11,1,1,114,235,24,Camp
+51371-01-014,Bekaa,Zahle,33.85136,36.04023,IS- Informal Settlement,Less than 4,2,9,1,1,100,168,141,Camp
+51377-01-002,Bekaa,Zahle,33.796,36.01489,IS- Informal Settlement,Less than 4,2,13,0,0,117,87,44,Camp
+51377-01-003,Bekaa,Zahle,33.79585,36.00873,IS- Informal Settlement,Less than 4,1,4,0,0,258,19,212,Camp
+51383-01-001,Bekaa,Zahle,33.817,35.9667,IS- Informal Settlement,Less than 4,3,36,4,5,257,25,291,Camp
+51383-01-002,Bekaa,Zahle,33.8178,35.966,IS- Informal Settlement,Active,8,39,7,8,200,149,231,Camp
+51383-01-006,Bekaa,Zahle,33.8142,35.9654,IS- Informal Settlement,Active,8,40,4,6,67,212,290,Camp
+51383-01-007,Bekaa,Zahle,33.8188,35.9688,IS- Informal Settlement,Active,8,38,7,6,216,157,39,Camp
+51383-01-008,Bekaa,Zahle,33.8201,35.9647,IS- Informal Settlement,Active,13,62,13,7,177,196,225,Camp
+51383-01-009,Bekaa,Zahle,33.8226,35.963,IS- Informal Settlement,Active,20,94,18,18,92,213,293,Camp
+51383-01-010,Bekaa,Zahle,33.8226,35.9532,IS- Informal Settlement,Active,27,50,25,30,20,120,165,Camp
+51383-01-012,Bekaa,Zahle,33.8165,35.9496,IS- Informal Settlement,Active,59,473,48,0,66,49,101,Camp
+51383-01-013,Bekaa,Zahle,33.8152,35.9483,IS- Informal Settlement,Active,7,44,6,6,79,31,70,Camp
+51383-01-015,Bekaa,Zahle,33.8203,35.9605,IS- Informal Settlement,Active,5,23,5,15,213,252,12,Camp
+51383-01-017,Bekaa,Zahle,33.8194,35.9527,IS- Informal Settlement,Active,31,170,26,26,230,238,63,Camp
+51383-01-018,Bekaa,Zahle,33.8202,35.969,IS- Informal Settlement,Less than 4,1,4,2,1,218,137,297,Camp
+51383-01-019,Bekaa,Zahle,33.825,35.9471,IS- Informal Settlement,Active,16,91,11,11,138,139,230,Camp
+51383-01-020,Bekaa,Zahle,33.8129,35.959,IS- Informal Settlement,Active,46,318,45,40,140,86,31,Camp
+51383-01-021,Bekaa,Zahle,33.8253,35.952,IS- Informal Settlement,Active,19,94,18,18,85,163,27,Camp
+51383-01-022,Bekaa,Zahle,33.8151,35.9592,IS- Informal Settlement,Active,11,84,11,11,44,282,246,Camp
+51383-01-025,Bekaa,Zahle,33.8121,35.9512,IS- Informal Settlement,Active,34,205,34,34,25,298,91,Camp
+51383-01-026,Bekaa,Zahle,33.8224,35.9455,IS- Informal Settlement,Less than 4,3,20,2,2,182,284,93,Camp
+51383-01-027,Bekaa,Zahle,33.8197,35.9648,IS- Informal Settlement,Active,149,896,140,140,234,137,214,Camp
+51383-01-028,Bekaa,Zahle,33.8119,35.9508,IS- Informal Settlement,Active,38,188,29,38,196,189,191,Camp
+51383-01-029,Bekaa,Zahle,33.8193,35.9633,IS- Informal Settlement,Active,29,163,29,36,77,215,179,Camp
+51383-01-030,Bekaa,Zahle,33.8134,35.9515,IS- Informal Settlement,Active,8,51,10,10,220,269,225,Camp
+51383-01-033,Bekaa,Zahle,33.81,35.9632,IS- Informal Settlement,Active,7,37,3,6,236,163,207,Camp
+51383-01-034,Bekaa,Zahle,33.8201,35.9578,IS- Informal Settlement,Less than 4,1,8,1,1,290,142,125,Camp
+51383-01-035,Bekaa,Zahle,33.822,35.9664,IS- Informal Settlement,Less than 4,1,7,1,1,143,166,165,Camp
+51383-01-036,Bekaa,Zahle,33.8278,35.9627,IS- Informal Settlement,Active,5,41,5,4,240,239,130,Camp
+51383-01-037,Bekaa,Zahle,33.8136,35.9598,IS- Informal Settlement,Active,11,82,8,4,144,141,219,Camp
+51383-01-038,Bekaa,Zahle,33.8217,35.9533,IS- Informal Settlement,Less than 4,1,5,1,1,52,227,242,Camp
+51383-01-039,Bekaa,Zahle,33.8222,35.9537,IS- Informal Settlement,Less than 4,3,18,3,3,74,83,202,Camp
+51383-01-040,Bekaa,Zahle,33.8141,35.9508,IS- Informal Settlement,Less than 4,2,8,1,2,123,24,239,Camp
+51383-01-041,Bekaa,Zahle,33.8128,35.9637,IS- Informal Settlement,Less than 4,1,3,1,1,52,93,116,Camp
+51383-01-042,Bekaa,Zahle,33.8201,35.9688,IS- Informal Settlement,Less than 4,1,4,1,1,149,236,212,Camp
+51383-01-043,Bekaa,Zahle,33.8208,35.961,IS- Informal Settlement,Active,12,77,3,8,79,90,224,Camp
+51383-01-044,Bekaa,Zahle,33.8152,35.9484,IS- Informal Settlement,Active,4,20,1,3,25,17,117,Camp
+51383-01-046,Bekaa,Zahle,33.8088,35.9676,IS- Informal Settlement,Less than 4,1,4,1,1,212,107,80,Camp
+51383-01-047,Bekaa,Zahle,33.8097,35.9674,IS- Informal Settlement,Less than 4,1,4,1,1,81,228,211,Camp
+51383-01-048,Bekaa,Zahle,33.8098,35.9611,IS- Informal Settlement,Less than 4,1,6,0,1,80,175,146,Camp
+51383-01-049,Bekaa,Zahle,33.8111,35.9609,IS- Informal Settlement,Less than 4,1,6,1,1,182,270,187,Camp
+51383-01-050,Bekaa,Zahle,33.8276,35.963,IS- Informal Settlement,Active,7,30,7,7,116,95,145,Camp
+51383-01-051,Bekaa,Zahle,33.8238,35.9653,IS- Informal Settlement,Less than 4,1,3,1,1,190,73,243,Camp
+51383-01-052,Bekaa,Zahle,33.8135,35.9598,IS- Informal Settlement,Active,11,52,7,12,167,232,92,Camp
+51383-01-053,Bekaa,Zahle,33.8125,35.9521,IS- Informal Settlement,Active,42,312,40,30,64,289,32,Camp
+51383-01-054,Bekaa,Zahle,33.8105,35.9541,IS- Informal Settlement,Less than 4,1,6,1,1,255,121,265,Camp
+51383-01-055,Bekaa,Zahle,33.8112,35.9616,IS- Informal Settlement,Less than 4,1,7,1,1,237,143,153,Camp
+51383-01-057,Bekaa,Zahle,33.8121,35.9515,IS- Informal Settlement,Less than 4,2,6,1,1,106,168,19,Camp
+51383-01-058,Bekaa,Zahle,33.8229,35.95735,IS- Informal Settlement,Less than 4,1,7,1,1,232,247,182,Camp
+51383-01-059,Bekaa,Zahle,33.80664,35.96139,IS- Informal Settlement,Less than 4,1,7,0,1,261,173,261,Camp
+51383-01-060,Bekaa,Zahle,33.81779,35.95053,IS- Informal Settlement,Active,25,158,20,20,126,53,173,Camp
+51383-01-061,Bekaa,Zahle,33.8189,35.95224,IS- Informal Settlement,Active,94,564,65,94,155,232,13,Camp
+51383-01-062,Bekaa,Zahle,33.82015,35.94952,IS- Informal Settlement,Less than 4,1,3,1,0,123,280,173,Camp
+51383-01-063,Bekaa,Zahle,33.81665,35.95173,IS- Informal Settlement,Active,9,70,8,11,170,158,47,Camp
+51383-01-064,Bekaa,Zahle,33.81701,35.95091,IS- Informal Settlement,Active,30,218,26,31,149,250,88,Camp
+51383-01-065,Bekaa,Zahle,33.82619,35.95675,IS- Informal Settlement,Active,13,97,7,12,298,78,288,Camp
+51383-01-066,Bekaa,Zahle,33.82267,35.94487,IS- Informal Settlement,Less than 4,2,9,1,2,63,87,206,Camp
+51383-01-067,Bekaa,Zahle,33.82438,35.96205,IS- Informal Settlement,Active,34,242,26,28,297,27,84,Camp
+51383-01-068,Bekaa,Zahle,33.81859,35.95728,IS- Informal Settlement,Less than 4,1,11,1,1,213,207,121,Camp
+51383-01-069,Bekaa,Zahle,33.81679,35.95286,IS- Informal Settlement,Active,4,31,4,4,239,168,48,Camp
+51383-01-070,Bekaa,Zahle,33.81359,35.95064,IS- Informal Settlement,Active,18,76,5,18,203,215,69,Camp
+51389-01-001,Bekaa,Zahle,33.7623,35.9743,IS- Informal Settlement,Active,9,43,7,7,162,48,15,Camp
+51389-01-005,Bekaa,Zahle,33.7595,35.9714,IS- Informal Settlement,Active,7,44,6,6,172,43,113,Camp
+51389-01-006,Bekaa,Zahle,33.7795,35.9897,IS- Informal Settlement,Less than 4,1,13,1,1,28,276,215,Camp
+51389-01-007,Bekaa,Zahle,33.7702,35.9728,IS- Informal Settlement,Less than 4,3,9,1,1,189,269,178,Camp
+51389-01-008,Bekaa,Zahle,33.7716,35.9807,IS- Informal Settlement,Less than 4,2,12,2,1,12,242,101,Camp
+51389-01-009,Bekaa,Zahle,33.7551,35.9709,IS- Informal Settlement,Active,6,35,3,5,278,42,47,Camp
+51389-01-012,Bekaa,Zahle,33.7805,35.9625,IS- Informal Settlement,Less than 4,2,11,0,2,121,31,75,Camp
+51389-01-013,Bekaa,Zahle,33.7554,35.9631,IS- Informal Settlement,Less than 4,2,8,1,1,108,65,59,Camp
+51389-01-014,Bekaa,Zahle,33.77979,35.96865,IS- Informal Settlement,Less than 4,3,9,3,3,198,194,174,Camp
+51389-01-015,Bekaa,Zahle,33.78044,35.96773,IS- Informal Settlement,Active,6,29,4,4,136,63,215,Camp
+51389-01-016,Bekaa,Zahle,33.77849,35.9687,IS- Informal Settlement,Less than 4,2,8,1,1,61,156,265,Camp
+51389-01-018,Bekaa,Zahle,33.76297,35.97883,IS- Informal Settlement,Active,6,76,6,5,287,289,267,Camp
+51389-01-019,Bekaa,Zahle,33.76126,35.97684,IS- Informal Settlement,Less than 4,3,18,2,2,17,40,75,Camp
+51389-01-020,Bekaa,Zahle,33.76675,35.98418,IS- Informal Settlement,Less than 4,1,0,0,0,179,102,243,Camp
+51389-01-024,Bekaa,Zahle,33.75714,35.96608,IS- Informal Settlement,Less than 4,1,8,1,1,92,140,28,Camp
+51389-01-025,Bekaa,Zahle,33.78894,35.99824,IS- Informal Settlement,Less than 4,1,4,1,1,238,168,82,Camp
