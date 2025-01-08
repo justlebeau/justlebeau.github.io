@@ -5,6 +5,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Stock Forecast</title>
   <script src="https://cdn.jsdelivr.net/npm/apexcharts"></script>
+  <script src="https://cdn.jsdelivr.net/npm/@tensorflow/tfjs"></script>
   <style>
     body {
       font-family: Arial, sans-serif;
@@ -26,25 +27,51 @@
   <div id="chart"></div>
 
   <script>
-    document.getElementById('stockSelector').addEventListener('change', fetchForecast);
+    document.getElementById('stockSelector').addEventListener('change', fetchStockData);
 
-    async function fetchForecast() {
+    async function fetchStockData() {
       const symbol = document.getElementById('stockSelector').value;
-      const days = 180; // 6 months
-      const url = `/api/forecast?symbol=${symbol}&days=${days}`;
+      const apiKey = 'YOUR_API_KEY';
+      const url = `https://www.alphavantage.co/query?function=TIME_SERIES_DAILY&symbol=${symbol}&apikey=${apiKey}`;
 
       try {
         const response = await fetch(url);
         const data = await response.json();
-        const { dates, prices, forecast } = data;
+        const timeSeries = data['Time Series (Daily)'];
+        const dates = Object.keys(timeSeries).reverse();
+        const prices = dates.map(date => parseFloat(timeSeries[date]['4. close']));
 
-        renderChart(dates, prices, forecast);
+        const forecast6Months = await forecast(prices, 180);
+        const forecast1Year = await forecast(prices, 365);
+
+        renderChart(dates, prices, forecast6Months, forecast1Year);
       } catch (error) {
-        console.error('Error fetching forecast data:', error);
+        console.error('Error fetching stock data:', error);
       }
     }
 
-    function renderChart(dates, prices, forecast) {
+    async function forecast(prices, days) {
+      const model = tf.sequential();
+      model.add(tf.layers.dense({ units: 1, inputShape: [1] }));
+      model.compile({ optimizer: 'sgd', loss: 'meanSquaredError' });
+
+      const xs = tf.tensor2d(prices.map((_, i) => [i]), [prices.length, 1]);
+      const ys = tf.tensor2d(prices, [prices.length, 1]);
+
+      await model.fit(xs, ys, { epochs: 100 });
+
+      const forecast = [];
+      for (let i = 0; i < days; i++) {
+        const prediction = model.predict(tf.tensor2d([[prices.length + i]], [1, 1]));
+        forecast.push(prediction.dataSync()[0]);
+      }
+      return forecast;
+    }
+
+    function renderChart(dates, prices, forecast6Months, forecast1Year) {
+      const futureDates6Months = Array.from({ length: 180 }, (_, i) => `Day ${i + 1}`);
+      const futureDates1Year = Array.from({ length: 365 }, (_, i) => `Day ${i + 1}`);
+
       const options = {
         chart: {
           type: 'line'
@@ -55,12 +82,16 @@
             data: prices
           },
           {
-            name: 'Forecast',
-            data: [...Array(prices.length).fill(null), ...forecast]
+            name: '6 Months Forecast',
+            data: [...Array(prices.length).fill(null), ...forecast6Months]
+          },
+          {
+            name: '1 Year Forecast',
+            data: [...Array(prices.length).fill(null), ...forecast1Year]
           }
         ],
         xaxis: {
-          categories: [...dates, ...Array(forecast.length).fill('Future')]
+          categories: [...dates, ...futureDates1Year]
         }
       };
 
@@ -69,7 +100,7 @@
     }
 
     // Fetch initial data
-    fetchForecast();
+    fetchStockData();
   </script>
 </body>
 </html>
