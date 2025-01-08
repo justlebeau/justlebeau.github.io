@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Stock Forecast</title>
+  <script src="https://cdn.jsdelivr.net/npm/apexcharts"></script>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      margin: 20px;
+    }
+    #chart {
+      max-width: 650px;
+      margin: 35px auto;
+    }
+  </style>
+</head>
+<body>
+  <h1>Stock Forecast</h1>
+  <select id="stockSelector">
+    <option value="AAPL">Apple</option>
+    <option value="GOOGL">Google</option>
+    <option value="MSFT">Microsoft</option>
+  </select>
+  <div id="chart"></div>
+
+  <script>
+    document.getElementById('stockSelector').addEventListener('change', fetchForecast);
+
+    async function fetchForecast() {
+      const symbol = document.getElementById('stockSelector').value;
+      const days = 180; // 6 months
+      const url = `/api/forecast?symbol=${symbol}&days=${days}`;
+
+      try {
+        const response = await fetch(url);
+        const data = await response.json();
+        const { dates, prices, forecast } = data;
+
+        renderChart(dates, prices, forecast);
+      } catch (error) {
+        console.error('Error fetching forecast data:', error);
+      }
+    }
+
+    function renderChart(dates, prices, forecast) {
+      const options = {
+        chart: {
+          type: 'line'
+        },
+        series: [
+          {
+            name: 'Stock Price',
+            data: prices
+          },
+          {
+            name: 'Forecast',
+            data: [...Array(prices.length).fill(null), ...forecast]
+          }
+        ],
+        xaxis: {
+          categories: [...dates, ...Array(forecast.length).fill('Future')]
+        }
+      };
+
+      const chart = new ApexCharts(document.querySelector("#chart"), options);
+      chart.render();
+    }
+
+    // Fetch initial data
+    fetchForecast();
+  </script>
+</body>
+</html>
