@@ -1,1 +1,0 @@
-Quant Estate Farmers
