@@ -41,8 +41,13 @@
         const dates = Object.keys(timeSeries).reverse();
         const prices = dates.map(date => parseFloat(timeSeries[date]['4. close']));
 
+        console.log('Fetched Prices:', prices);
+
         const forecast6Months = await forecast(prices, 180);
         const forecast1Year = await forecast(prices, 365);
+
+        console.log('6 Months Forecast:', forecast6Months);
+        console.log('1 Year Forecast:', forecast1Year);
 
         renderChart(dates, prices, forecast6Months, forecast1Year);
       } catch (error) {
